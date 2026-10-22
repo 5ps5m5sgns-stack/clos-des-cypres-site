@@ -1612,7 +1612,7 @@ class Builder:
         return ('<article class="bfeature" data-cat="%s">\n%s<div class="bfeature__body">\n'
                 '<p class="bfeature__kicker"><span>%s</span></p>\n'
                 '<p class="bcard__meta">%s<span class="bcard__cat">%s</span><time datetime="%s">%s</time><span>%d&nbsp;min</span></p>\n'
-                '<h3 class="bfeature__title"><a href="%s">%s</a></h3>\n'
+                '<h2 class="bfeature__title"><a href="%s">%s</a></h2>\n'
                 '<p class="bfeature__excerpt">%s</p>\n'
                 '<span class="bcard__more" aria-hidden="true">%s <em>→</em></span>\n</div>\n</article>') % (
             esc(a.category, False), self._media(a, FEATURE_SIZES, "bfeature__media"), esc(INDEX_FEATURE_LABEL, False),

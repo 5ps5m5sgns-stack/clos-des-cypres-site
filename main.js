@@ -12,11 +12,12 @@
   function initNavbar() {
     const nav = document.querySelector(".nav");
     if (!nav) return;
-    let last = window.scrollY;
+    let last = null;
     let ticking = false;
 
     function update() {
       const y = window.scrollY;
+      if (last === null) last = y;
       nav.classList.toggle("scrolled", y > 80);
 
       // Auto-hide hospitality : masque au défilement descendant, révèle au remontant.
@@ -34,7 +35,9 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    update();
+    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
+    // en plein chargement (tâche longue)
+    requestAnimationFrame(() => requestAnimationFrame(update));
   }
 
   /* ----------------------------------------------------------
@@ -57,7 +60,9 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    update();
+    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
+    // en plein chargement (tâche longue)
+    requestAnimationFrame(() => requestAnimationFrame(update));
   }
 
   /* ----------------------------------------------------------
@@ -746,7 +751,9 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    update();
+    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
+    // en plein chargement (tâche longue)
+    requestAnimationFrame(() => requestAnimationFrame(update));
   }
 
   /* ---------- INIT ----------

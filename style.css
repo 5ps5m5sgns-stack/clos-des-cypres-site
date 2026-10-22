@@ -87,14 +87,6 @@ button {
 ul { list-style: none; }
 
 /* ---------- PAGE TRANSITION ---------- */
-body {
-  opacity: 0;
-  animation: pageIn 0.7s var(--ease-out) forwards;
-}
-@keyframes pageIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
 
 body.page-leaving {
   opacity: 0;
