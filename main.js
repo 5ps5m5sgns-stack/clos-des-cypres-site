@@ -35,9 +35,8 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
-    // en plein chargement (tâche longue)
-    requestAnimationFrame(() => requestAnimationFrame(update));
+    // Pas de mesure au chargement : lire le défilement forcerait un calcul de mise en page dans une tâche longue.
+    // Le navigateur envoie un évènement scroll quand il restaure une position, l'état se met alors à jour.
   }
 
   /* ----------------------------------------------------------
@@ -60,9 +59,8 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
-    // en plein chargement (tâche longue)
-    requestAnimationFrame(() => requestAnimationFrame(update));
+    // Pas de mesure au chargement : lire le défilement forcerait un calcul de mise en page dans une tâche longue.
+    // Le navigateur envoie un évènement scroll quand il restaure une position, l'état se met alors à jour.
   }
 
   /* ----------------------------------------------------------
@@ -751,9 +749,8 @@
     window.addEventListener("scroll", () => {
       if (!ticking) { requestAnimationFrame(update); ticking = true; }
     }, { passive: true });
-    // Première mesure après deux images : lire le défilement tout de suite forcerait un calcul de mise en page
-    // en plein chargement (tâche longue)
-    requestAnimationFrame(() => requestAnimationFrame(update));
+    // Pas de mesure au chargement : lire le défilement forcerait un calcul de mise en page dans une tâche longue.
+    // Le navigateur envoie un évènement scroll quand il restaure une position, l'état se met alors à jour.
   }
 
   /* ---------- INIT ----------
