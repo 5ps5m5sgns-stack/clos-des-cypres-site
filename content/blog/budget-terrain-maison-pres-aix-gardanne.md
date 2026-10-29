@@ -67,7 +67,7 @@ Vos leviers : la surface, le mode de construction (CCMI à prix forfaitaire, ou 
 
 ## Taxe d'aménagement : calcul, piscine et simulateur
 
-Selon Service-Public (page vérifiée le 01/01/2026), la taxe vaut : surface taxable × valeur forfaitaire × (taux communal + taux départemental). En 2026, la valeur forfaitaire est de **892 € par m²** hors Île-de-France, avec un abattement de 50 % sur les 100 premiers m² d'une résidence principale et de ses annexes.
+Selon Service-Public (page vérifiée le 01/01/2026), la taxe vaut : surface taxable × valeur forfaitaire × (taux communal + taux départemental). En 2026, la valeur forfaitaire est de **892 € par m²** hors Île-de-France, avec un abattement de 50 % sur les 100 premiers m² d'une résidence principale et de ses annexes. Le détail du calcul, de la déclaration et du paiement figure dans [la taxe d'aménagement d'une maison neuve](/blog/taxe-d-amenagement-maison-calcul/).
 
 À Gardanne, d'après les délibérations publiées par data.economie.gouv.fr (mises à jour le 03/03/2026), le taux communal est de **5 %** et le taux départemental de **1,55 %**, soit 6,55 %. Ces taux se revotent chaque année : confirmez-les en mairie.
 

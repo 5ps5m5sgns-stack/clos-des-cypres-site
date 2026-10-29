@@ -5,9 +5,89 @@
     <link>https://clos-des-cypres.fr/blog/</link>
     <description>Guides pratiques pour acheter un terrain à bâtir et construire sa maison en Provence, près de Biver : démarches, règles, budget et financement.</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:00:00 GMT</lastBuildDate>
     <generator>build_blog.py</generator>
     <atom:link href="https://clos-des-cypres.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Constructeur ou architecte : quel contrat pour sa maison ?</title>
+      <link>https://clos-des-cypres.fr/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>Constructeur ou architecte pour construire sa maison : CCMI, maîtrise d'œuvre, entreprises séparées, garanties, délais et seuil de 150 m² (règles 2026).</description>
+    </item>
+    <item>
+      <title>Dommages-ouvrage et garantie décennale : comment ça marche</title>
+      <link>https://clos-des-cypres.fr/blog/dommages-ouvrage-garantie-decennale-maison-neuve/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/dommages-ouvrage-garantie-decennale-maison-neuve/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>Assurance dommages-ouvrage et garantie décennale d'une maison neuve : qui s'assure, quand, ce qui est couvert, délais de l'assureur, revente (2026).</description>
+    </item>
+    <item>
+      <title>Dossier de permis de construire d'une maison : les pièces</title>
+      <link>https://clos-des-cypres.fr/blog/permis-de-construire-maison-individuelle-dossier/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/permis-de-construire-maison-individuelle-dossier/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>Dossier de permis de construire d'une maison individuelle : formulaire PCMI, plans, notice, photos, attestation RE2020, dépôt et récépissé (règles 2026).</description>
+    </item>
+    <item>
+      <title>RE2020 pour une maison individuelle : ce qui change</title>
+      <link>https://clos-des-cypres.fr/blog/re2020-maison-individuelle-ce-qui-change/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/re2020-maison-individuelle-ce-qui-change/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>RE2020 pour une maison individuelle : trois objectifs, six indicateurs, attestations au permis et à l'achèvement, et que demander à son constructeur.</description>
+    </item>
+    <item>
+      <title>Taxe d'aménagement d'une maison neuve : calcul et paiement</title>
+      <link>https://clos-des-cypres.fr/blog/taxe-d-amenagement-maison-calcul/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/taxe-d-amenagement-maison-calcul/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Financer son projet</category>
+      <description>Taxe d'aménagement d'une maison neuve : formule, valeur de 892 € par m² en 2026, abattement, taux à Gardanne, exemples chiffrés, déclaration et paiement.</description>
+    </item>
+    <item>
+      <title>Bornage terrain à bâtir : obligatoire ? Plan et frais</title>
+      <link>https://clos-des-cypres.fr/blog/bornage-terrain-geometre/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/bornage-terrain-geometre/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Acheter un terrain</category>
+      <description>Bornage terrain à bâtir : à quoi il sert, quand la vente l'exige, ce que fait le géomètre-expert, qui paie et comment lire un plan de bornage.</description>
+    </item>
+    <item>
+      <title>Débroussaillement obligatoire : terrain à bâtir en Provence</title>
+      <link>https://clos-des-cypres.fr/blog/debroussaillement-obligatoire-terrain-provence/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/debroussaillement-obligatoire-terrain-provence/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Acheter un terrain</category>
+      <description>Débroussaillement obligatoire en Provence : qui débroussaille, sur 50 ou 100 m, chez les voisins, et ce que change la vente d'un terrain à bâtir.</description>
+    </item>
+    <item>
+      <title>Financer l'achat d'un terrain à bâtir : prêt, apport, PTZ</title>
+      <link>https://clos-des-cypres.fr/blog/financer-achat-terrain-a-batir-pret/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/financer-achat-terrain-a-batir-pret/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Financer son projet</category>
+      <description>Financer l'achat d'un terrain à bâtir : prêt terrain seul ou global, apport, déblocage des fonds, PTZ, Action Logement, condition suspensive (règles 2026).</description>
+    </item>
+    <item>
+      <title>Promesse de vente terrain lotissement : jusqu'à l'acte</title>
+      <link>https://clos-des-cypres.fr/blog/promesse-de-vente-terrain-lotissement/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/promesse-de-vente-terrain-lotissement/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Acheter un terrain</category>
+      <description>Promesse de vente terrain lotissement : promesse ou compromis, indemnité d'immobilisation, rétractation, conditions suspensives, puis acte chez le notaire.</description>
+    </item>
+    <item>
+      <title>Règlement de lotissement, cahier des charges, PLUi : guide</title>
+      <link>https://clos-des-cypres.fr/blog/reglement-lotissement-cahier-des-charges/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/reglement-lotissement-cahier-des-charges/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <category>Acheter un terrain</category>
+      <description>Règlement de lotissement, cahier des charges, PLUi : ce que chacun impose, ce qu'il devient après dix ans et ce qu'il faut lire avant de signer.</description>
+    </item>
     <item>
       <title>Certificat d'urbanisme : à quoi sert-il avant d'acheter ?</title>
       <link>https://clos-des-cypres.fr/blog/certificat-d-urbanisme-terrain-a-batir/</link>
@@ -87,30 +167,6 @@
       <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
       <category>Construire en Provence</category>
       <description>Construire sur un terrain en pente en Provence : restanques, murs de soutènement, déblais et remblais du PLUi, étude de sol G2, piscine et accès.</description>
-    </item>
-    <item>
-      <title>Acheter un terrain en lotissement à Gardanne : les étapes</title>
-      <link>https://clos-des-cypres.fr/blog/guide-acheter-terrain-lotissement-gardanne-biver/</link>
-      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/guide-acheter-terrain-lotissement-gardanne-biver/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>Acheter un terrain</category>
-      <description>Acheter un terrain en lotissement à Gardanne : étapes, documents remis avant signature, promesse, rétractation et délais pour construire.</description>
-    </item>
-    <item>
-      <title>Terrain libre de constructeur : définition et pièges</title>
-      <link>https://clos-des-cypres.fr/blog/terrain-libre-de-constructeur-definition/</link>
-      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/terrain-libre-de-constructeur-definition/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>Acheter un terrain</category>
-      <description>Terrain libre de constructeur : ce que l'expression veut dire, la différence avec un terrain lié, CCMI ou architecte, et quoi demander avant de signer.</description>
-    </item>
-    <item>
-      <title>Terrain constructible à Gardanne : ce qu'il faut vérifier</title>
-      <link>https://clos-des-cypres.fr/blog/verifier-avant-dacheter-terrain-biver-gardanne/</link>
-      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/verifier-avant-dacheter-terrain-biver-gardanne/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>Acheter un terrain</category>
-      <description>Terrain constructible à Gardanne : PLUi du Pays d'Aix, zone UB, argiles, zone inondable, débroussaillement, servitudes. La check-list avant d'acheter.</description>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ tags: terrain à bâtir, terrain constructible, terrain viabilisé, PLUi, certif
 keyword: terrain à bâtir, constructible, viabilisé
 image: /images-optimized/hero-aerial-villas-golden-hour-1024.avif
 image_alt: Visualisation aérienne illustrative, non contractuelle : maisons à toits de tuiles et piscines en lisière de bois
-og_image: /images-optimized/hero-aerial-villas-golden-hour-og.jpg
+og_image: /images-optimized/hero-aerial-villas-golden-hour-og-v2.jpg
 related: verifier-avant-dacheter-terrain-biver-gardanne, certificat-d-urbanisme-terrain-a-batir, viabilisation-terrain-raccordements
 draft: false
 ---

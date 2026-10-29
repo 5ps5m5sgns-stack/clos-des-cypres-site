@@ -54,7 +54,7 @@ Tableau : Les neuf étapes pour construire sa maison : intervenants, documents e
 
 ### Terrain et maison : un contrat ou deux ?
 
-Avec un CCMI, vous êtes propriétaire du terrain, ou titulaire d'une promesse de vente avec une condition suspensive d'acquisition : l'achat du terrain et le contrat de construction sont deux contrats distincts. Un contrat unique existe aussi, la vente en l'état futur d'achèvement (VEFA), dans laquelle le vendeur fournit le terrain et s'engage à construire. Service-Public distingue quatre contrats : le CCMI, la VEFA, le contrat de maîtrise d'œuvre (un professionnel conçoit et coordonne) et les contrats d'entreprise (un par entreprise).
+Avec un CCMI, vous êtes propriétaire du terrain, ou titulaire d'une promesse de vente avec une condition suspensive d'acquisition : l'achat du terrain et le contrat de construction sont deux contrats distincts. Un contrat unique existe aussi, la vente en l'état futur d'achèvement (VEFA), dans laquelle le vendeur fournit le terrain et s'engage à construire. Service-Public distingue quatre contrats ([comparatif : constructeur ou architecte](/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/)) : le CCMI, la VEFA, le contrat de maîtrise d'œuvre (un professionnel conçoit et coordonne) et les contrats d'entreprise (un par entreprise).
 
 Pour un projet de plus de 150 m² de surface de plancher, les plans doivent être établis par un architecte ; en dessous, c'est facultatif pour un particulier (Service-Public).
 
@@ -62,7 +62,7 @@ Pour un projet de plus de 150 m² de surface de plancher, les plans doivent êtr
 
 ## Permis de construire d'une maison : quels délais d'instruction ?
 
-Un permis de construire est obligatoire pour construire un bâtiment de plus de 20 m². Pour une maison individuelle, le délai d'instruction de droit commun est de **deux mois** (article R. 423-23 du code de l'urbanisme).
+Un permis de construire est obligatoire pour construire un bâtiment de plus de 20 m². Pour une maison individuelle, le délai d'instruction de droit commun est de **deux mois** (article R. 423-23 du code de l'urbanisme). Les pièces à fournir sont détaillées dans [le dossier de permis de construire d'une maison](/blog/permis-de-construire-maison-individuelle-dossier/).
 
 Tableau : Délai d'instruction d'un permis de construire pour une maison individuelle
 
@@ -110,7 +110,7 @@ Dans les deux cas, Service-Public indique que le contrat comporte :
 - un prix TTC forfaitaire et définitif, avec les conditions de révision si elles sont prévues ;
 - un délai de réalisation des travaux et des pénalités de retard d'au moins 1/3 000 du prix par jour ;
 - une notice descriptive, qui distingue ce qui est compris ou non dans le prix ;
-- les attestations de garantie de livraison à votre nom, d'assurance responsabilité professionnelle et décennale du constructeur, et d'assurance dommages-ouvrage ;
+- les attestations de garantie de livraison à votre nom, d'assurance responsabilité professionnelle et décennale du constructeur, et d'assurance dommages-ouvrage ([comment ça marche](/blog/dommages-ouvrage-garantie-decennale-maison-neuve/)) ;
 - 10 jours calendaires pour vous rétracter, par lettre recommandée.
 
 La garantie de remboursement protège les sommes versées avant l'ouverture du chantier. Le constructeur peut demander un dépôt de garantie, limité à 3 % du prix et bloqué sur un compte à votre nom. Sans dépôt, il peut demander deux paiements limités à 5 % chacun (à la signature, puis à la délivrance du permis), et une attestation de garantie de remboursement est alors annexée. Le contrat peut être signé sous conditions suspensives (acquisition du terrain, permis, prêts, assurance de dommages, garantie de livraison) ; aucun versement n'est possible avant leur réalisation.

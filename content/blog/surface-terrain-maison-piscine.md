@@ -106,7 +106,7 @@ Même sans autorisation, le PLU peut imposer ses règles. La piscine doit aussi 
 
 ## Quelle taxe d'aménagement pour une piscine ?
 
-La taxe d'aménagement concerne les projets qui nécessitent une autorisation d'urbanisme. Pour une piscine, la base est la surface du bassin, avec une valeur forfaitaire de **251 € par m²** en 2026 (Service-Public). La formule : surface du bassin × 251 € × taux. Le taux communal est voté entre 1 % et 5 % (jusqu'à 20 % dans certains secteurs), le taux départemental est limité à 2,5 %, et la taxe est la somme des deux résultats.
+La taxe d'aménagement concerne les projets qui nécessitent une autorisation d'urbanisme. Pour une piscine, la base est la surface du bassin, avec une valeur forfaitaire de **251 € par m²** en 2026 (Service-Public). La formule : surface du bassin × 251 € × taux. Le taux communal est voté entre 1 % et 5 % (jusqu'à 20 % dans certains secteurs), le taux départemental est limité à 2,5 %, et la taxe est la somme des deux résultats. Le calcul complet, avec des exemples pour la maison, est dans [la taxe d'aménagement d'une maison neuve](/blog/taxe-d-amenagement-maison-calcul/).
 
 ![Vue de dessus d'une piscine rectangulaire à escalier d'angle, entourée d'une plage dallée et de gazon](/images-optimized/blog/surface-terrain-maison-piscine/piscine-vue-aerienne-plage-dallee.avif "Illustration : piscine privée dans l'Ain, vue du ciel. La taxe porte sur la surface du bassin ; la plage dallée compte parmi vos surfaces aménagées. § Photo : [Benoît Prieur](https://www.wikidata.org/wiki/Q42790984), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Une_piscine_priv%C3%A9e_dans_l%27Ain_%28vue_a%C3%A9rienne%29.JPG), recadrée"){1200x800}
 

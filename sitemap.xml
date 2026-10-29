@@ -3,63 +3,203 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://clos-des-cypres.fr/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <image:image>
       <image:loc>https://clos-des-cypres.fr/images-optimized/hero-aerial-villas-golden-hour.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/lots</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/terrain-a-batir-gardanne</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/terrain-a-batir-aix-en-provence</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <image:image>
       <image:loc>https://clos-des-cypres.fr/images-optimized/terrain-provence-collines-doree.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/terrain-a-batir-marseille</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <image:image>
       <image:loc>https://clos-des-cypres.fr/images-optimized/hero-aerial-villas-golden-hour.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/terrain-a-batir-provence</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <image:image>
       <image:loc>https://clos-des-cypres.fr/images-optimized/villa-piscine-jardin-provencal.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/environnement</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/galerie</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/contact</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/mentions-legales</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/confidentialite</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/couverture.avif</image:loc>
+      <image:title>Grand mas provençal aux murs ocre et aux volets rouges, derrière des platanes dont les troncs clairs encadrent la façade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/dommages-ouvrage-garantie-decennale-maison-neuve/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/dommages-ouvrage-garantie-decennale-maison-neuve/couverture.avif</image:loc>
+      <image:title>Main qui tient un trousseau de deux clés avec un porte-clés en forme de maison, devant une serrure de porte blanche</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/permis-de-construire-maison-individuelle-dossier/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/permis-de-construire-maison-individuelle-dossier/couverture.avif</image:loc>
+      <image:title>Panneau rectangulaire d'affichage d'un permis de construire, fixé sur une clôture de pré, avec des vaches et un paysage de collines derrière</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/permis-de-construire-maison-individuelle-dossier/panneau-chantier-pavillons-permis.avif</image:loc>
+      <image:title>Grand panneau de chantier blanc fixé devant des pavillons neufs à toits de tuiles rouges, derrière une clôture grillagée</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/re2020-maison-individuelle-ce-qui-change/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/interieur-sejour-lumineux-piscine-1024.avif</image:loc>
+      <image:title>Visualisation illustrative, non contractuelle : séjour ouvert avec canapé, salle à manger et escalier en bois, donnant sur la piscine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/taxe-d-amenagement-maison-calcul/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/aerial-lotissement-collines-gardanne-1024.avif</image:loc>
+      <image:title>Photographie aérienne du Clos des Cyprès à Biver, avant les travaux : prairie bordée de pins et de haies, avec le village et les collines boisées autour</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/bornage-terrain-geometre/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/bornage-terrain-geometre/couverture.avif</image:loc>
+      <image:title>Borne de pierre en granit surmontée d'un anneau de fer, au bord d'un chemin de terre, devant un bâtiment en pierre et des herbes sèches</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/bornage-terrain-geometre/borne-plastique-limite-propriete-herbe.avif</image:loc>
+      <image:title>Borne de limite de propriété à embase rouge écaillée et collerette blanche, posée dans l'herbe au milieu de feuilles</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/bornage-terrain-geometre/plan-cadastral-ancien-village-1826.avif</image:loc>
+      <image:title>Plan cadastral ancien aquarellé d'un village : parcelles numérotées, maisons colorées en rose, rivière en vert, quelques bâtiments en bleu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/bornage-terrain-geometre/tachymetre-releve-geometre-trepied.avif</image:loc>
+      <image:title>Tachéomètre gris monté sur un trépied jaune, posé sur une dune de buissons face à une plage et à la mer sous un ciel bleu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/debroussaillement-obligatoire-terrain-provence/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/debroussaillement-obligatoire-terrain-provence/couverture.avif</image:loc>
+      <image:title>Chemin de terre ocre qui traverse un bois clair de pins d'Alep aux troncs penchés, avec de l'herbe sèche sur les bords et des arbustes verts en sous-bois</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/debroussaillement-obligatoire-terrain-provence/sous-bois-dense-pins-chenes-verts.avif</image:loc>
+      <image:title>Sous-bois dense de pins d'Alep et de chênes verts, avec de la végétation basse continue entre les troncs</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/debroussaillement-obligatoire-terrain-provence/garrigue-la-couronne-martigues.avif</image:loc>
+      <image:title>Garrigue basse sur un sol de pierres blanches, avec quelques pins et une colline au fond, sous un ciel clair</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/debroussaillement-obligatoire-terrain-provence/debroussailleuse-thermique-herbe.avif</image:loc>
+      <image:title>Débroussailleuse à moteur thermique orange posée dans l'herbe, avec son guidon à deux poignées et son protecteur rouge au bout du manche</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/financer-achat-terrain-a-batir-pret/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/financer-achat-terrain-a-batir-pret/couverture.avif</image:loc>
+      <image:title>Vue aérienne d'un grand champ labouré brun, bordé à gauche de jardins potagers et de toits de maisons, et à droite d'une prairie verte</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/financer-achat-terrain-a-batir-pret/maquette-maison-toit-tuiles.avif</image:loc>
+      <image:title>Maquette en bois d'une maison de banlieue des années 1930, au toit de tuiles rouges, aux murs crépis et aux encadrements de briques, présentée sous vitrine</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/financer-achat-terrain-a-batir-pret/panonceau-notaire-paris.avif</image:loc>
+      <image:title>Panonceau de notaire en laiton poli, portant une figure assise de la République et l'inscription République française</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/promesse-de-vente-terrain-lotissement/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/promesse-de-vente-terrain-lotissement/couverture.avif</image:loc>
+      <image:title>Vue sur un lotissement de maisons aux toits de tuiles rouges, au milieu de prairies et de collines, à travers les branches d'un arbre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/promesse-de-vente-terrain-lotissement/finition-chaussee-enrobe-engins.avif</image:loc>
+      <image:title>Vue de dessus d'une chaussée en cours de revêtement avec une finisseuse verte, un rouleau jaune et un compacteur, quelques ouvriers au loin</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/promesse-de-vente-terrain-lotissement/voie-privee-lotissement-impasse.avif</image:loc>
+      <image:title>Voie en impasse d'un lotissement, bordée de haies, avec un panneau de voie privée et le panneau « Lotissement Les Pommières »</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/promesse-de-vente-terrain-lotissement/enseigne-notaire-facade.avif</image:loc>
+      <image:title>Enseigne lumineuse carrée « Notaire » fixée en drapeau sur une façade crépie</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clos-des-cypres.fr/blog/reglement-lotissement-cahier-des-charges/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/reglement-lotissement-cahier-des-charges/couverture.avif</image:loc>
+      <image:title>Vue aérienne d'un grand champ labouré en bordure d'un bourg, avec des maisons à toits de tuiles, des haies et des bosquets, à l'emplacement d'un futur lotissement</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/reglement-lotissement-cahier-des-charges/plan-ancien-lotissement-parcelles-rues.avif</image:loc>
+      <image:title>Plan ancien sur papier rose d'un lotissement en parcelles alignées le long de rues, avec la Marne au nord et le titre « Plan du parc de Charentonneau »</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/reglement-lotissement-cahier-des-charges/plaques-lotissement-haie-grillage.avif</image:loc>
+      <image:title>Deux panneaux verts « Lotissement les Ormes » et « Lotissement Chaponod » fixés sur un mât, devant une haie et un grillage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/blog/reglement-lotissement-cahier-des-charges/lotissement-en-construction-vue-aerienne.avif</image:loc>
+      <image:title>Vue aérienne d'un quartier en construction au bord d'une baie, avec maisons à toits d'ardoise, petits immeubles blancs et une grue de chantier</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/blog/certificat-d-urbanisme-terrain-a-batir/</loc>

@@ -132,7 +132,7 @@ Pour le bornage, la loi n'impose pas de payeur unique à la vente. Hors lotissem
 
 ![Un mas en pierre au bord d'un champ de céréales, avec un alignement de cyprès à gauche et un ciel bleu](/images-optimized/blog/frais-de-notaire-terrain-a-batir/mas-cypres-champ-provence.avif "Illustration : un mas provençal et ses cyprès au bord d'un champ, sans lien avec le Clos des Cyprès. § Photo : [Arnaud 25](https://commons.wikimedia.org/wiki/User:Arnaud_25), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mas_04.jpg), recadrée"){1200x800}
 
-Les frais de notaire ne comprennent pas non plus la taxe d'aménagement, l'étude de sol propre à votre maison, les assurances ni le coût de la construction. Pour l'ensemble du projet, voir notre [budget pour construire une maison près d'Aix-en-Provence](/blog/budget-terrain-maison-pres-aix-gardanne/) et, pour la suite, les [étapes du terrain aux clés](/blog/construire-sa-maison-etapes-du-terrain-aux-cles/).
+Les frais de notaire ne comprennent pas non plus [la taxe d'aménagement](/blog/taxe-d-amenagement-maison-calcul/), l'étude de sol propre à votre maison, les assurances ni le coût de la construction. Pour l'ensemble du projet, voir notre [budget pour construire une maison près d'Aix-en-Provence](/blog/budget-terrain-maison-pres-aix-gardanne/) et, pour la suite, les [étapes du terrain aux clés](/blog/construire-sa-maison-etapes-du-terrain-aux-cles/).
 
 ## Quand les frais de notaire d'un terrain sont-ils réglés ?
 
