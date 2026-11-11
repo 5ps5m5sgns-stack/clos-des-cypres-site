@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/architecte-constructeur-maitre-d-oeuvre-quel-co
 image_credit: Photo : [SiefkinDR](https://commons.wikimedia.org/wiki/User:SiefkinDR), domaine public, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mas_%28Provencal_Farmhouse%29.jpg), recadrée
 image_alt: Grand mas provençal aux murs ocre et aux volets rouges, derrière des platanes dont les troncs clairs encadrent la façade
 image_caption: Illustration : un mas près de Rognes (Bouches-du-Rhône). Ce n'est pas une maison du Clos des Cyprès.
-related: terrain-libre-de-constructeur-definition, construire-sa-maison-etapes-du-terrain-aux-cles, dommages-ouvrage-garantie-decennale-maison-neuve, budget-terrain-maison-pres-aix-gardanne
+related: terrain-libre-de-constructeur-definition, construire-sa-maison-etapes-du-terrain-aux-cles, dommages-ouvrage-garantie-decennale-maison-neuve, budget-terrain-maison-pres-aix-gardanne, ccmi-contrat-construction-maison-individuelle-paiements-garanties
 draft: false
 ---
 

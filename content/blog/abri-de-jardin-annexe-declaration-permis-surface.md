@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/abri-de-jardin-annexe-declaration-permis-surfac
 image_credit: Photo : [Marianne Casamance](https://commons.wikimedia.org/wiki/User:Marianne_Casamance), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abri_de_jardin.JPG), recadrée
 image_alt: Abri de jardin en bois à double porte vitrée et toit à deux pans, posé sur une dalle dans un jardin du Vaucluse
 image_caption: Illustration : un abri de jardin en bois dans le Vaucluse. Ce n'est pas un projet du Clos des Cyprès.
-related: surface-terrain-maison-piscine, taxe-d-amenagement-maison-calcul, reglement-lotissement-cahier-des-charges
+related: surface-terrain-maison-piscine, taxe-d-amenagement-maison-calcul, reglement-lotissement-cahier-des-charges, fenetre-limite-propriete-distances-vues-voisin, piscine-privee-securite-barriere-alarme-couverture-abri
 draft: false
 ---
 

@@ -12,7 +12,7 @@ image_width: 1600
 image_height: 900
 image_alt: Vue de drone prise à la verticale d'une prairie close, bordée d'une route et de haies de conifères, avec les jardins et les piscines d'un quartier résidentiel de l'autre côté de la route
 og_image: /images-optimized/blog/terrain-libre-de-constructeur-definition/partage.jpg
-related: construire-sa-maison-etapes-du-terrain-aux-cles, guide-acheter-terrain-lotissement-gardanne-biver, budget-terrain-maison-pres-aix-gardanne
+related: construire-sa-maison-etapes-du-terrain-aux-cles, guide-acheter-terrain-lotissement-gardanne-biver, budget-terrain-maison-pres-aix-gardanne, ccmi-contrat-construction-maison-individuelle-paiements-garanties
 draft: false
 ---
 

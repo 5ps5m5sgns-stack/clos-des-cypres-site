@@ -10,7 +10,7 @@ keyword: construire sa maison
 image: /images-optimized/villa-piscine-jardin-provencal-1024.avif
 image_alt: Visualisation illustrative, non contractuelle : maison provençale à étage aux murs clairs et aux toits de tuiles, avec terrasse, jardin planté de lavande et piscine rectangulaire
 og_image: /images-optimized/villa-piscine-jardin-provencal-og.jpg
-related: terrain-libre-de-constructeur-definition, budget-terrain-maison-pres-aix-gardanne, etude-de-sol-terrain-a-batir
+related: terrain-libre-de-constructeur-definition, budget-terrain-maison-pres-aix-gardanne, etude-de-sol-terrain-a-batir, taxe-fonciere-maison-neuve-exoneration-declaration-90-jours
 draft: false
 ---
 

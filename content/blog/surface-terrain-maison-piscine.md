@@ -14,7 +14,7 @@ image_alt: Pelouse entre deux cyprès, avec un long bassin rectangulaire et un p
 image_caption: Illustration : bassin et pavillon de jardin à Barbentane (Bouches-du-Rhône), sans lien avec le Clos des Cyprès.
 image_credit: Photo : [PJMarriott](https://web.archive.org/web/20161031160407/http://www.panoramio.com/user/2490701?with_photo_id=125134000), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swimming_pool_at_Chateau,_Barbentane_-_panoramio.jpg), recadrée
 og_image: /images-optimized/blog/surface-terrain-maison-piscine/partage.jpg
-related: budget-terrain-maison-pres-aix-gardanne, construire-sur-terrain-en-pente-restanques-provence, terrain-libre-de-constructeur-definition, abri-de-jardin-annexe-declaration-permis-surface
+related: budget-terrain-maison-pres-aix-gardanne, construire-sur-terrain-en-pente-restanques-provence, terrain-libre-de-constructeur-definition, abri-de-jardin-annexe-declaration-permis-surface, fenetre-limite-propriete-distances-vues-voisin, piscine-privee-securite-barriere-alarme-couverture-abri
 draft: false
 ---
 

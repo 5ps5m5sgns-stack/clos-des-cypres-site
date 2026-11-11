@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/reglement-lotissement-cahier-des-charges/partag
 image_credit: Photo : Département Loire-Atlantique, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_de_l%27emplacement_d%27un_futur_lotissement_%C3%A0_Ch%C3%A9m%C3%A9r%C3%A9.jpg), recadrée
 image_alt: Vue aérienne d'un grand champ labouré en bordure d'un bourg, avec des maisons à toits de tuiles, des haies et des bosquets, à l'emplacement d'un futur lotissement
 image_caption: Illustration : l'emplacement d'un futur lotissement à Chéméré (Loire-Atlantique), vu du ciel. Ce n'est pas le Clos des Cyprès.
-related: promesse-de-vente-terrain-lotissement, verifier-avant-dacheter-terrain-biver-gardanne, construire-sa-maison-etapes-du-terrain-aux-cles, haie-arbres-cloture-limite-terrain-distances, abri-de-jardin-annexe-declaration-permis-surface
+related: promesse-de-vente-terrain-lotissement, verifier-avant-dacheter-terrain-biver-gardanne, construire-sa-maison-etapes-du-terrain-aux-cles, haie-arbres-cloture-limite-terrain-distances, abri-de-jardin-annexe-declaration-permis-surface, fenetre-limite-propriete-distances-vues-voisin
 draft: false
 ---
 

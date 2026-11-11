@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/dommages-ouvrage-garantie-decennale-maison-neuv
 image_credit: Photo : [Shixart1985](https://commons.wikimedia.org/wiki/User:Shixart1985), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hand_holds_house_keys_near_door_lock,_symbolizing_new_beginnings_and_homeownership_journey_in_a_modern_setting.jpg), recadrée
 image_alt: Main qui tient un trousseau de deux clés avec un porte-clés en forme de maison, devant une serrure de porte blanche
 image_caption: Illustration : la remise des clés ouvre la période des garanties légales. Ce n'est pas une maison du Clos des Cyprès.
-related: construire-sa-maison-etapes-du-terrain-aux-cles, budget-terrain-maison-pres-aix-gardanne, financer-achat-terrain-a-batir-pret, permis-de-construire-maison-individuelle-dossier
+related: construire-sa-maison-etapes-du-terrain-aux-cles, budget-terrain-maison-pres-aix-gardanne, financer-achat-terrain-a-batir-pret, permis-de-construire-maison-individuelle-dossier, ccmi-contrat-construction-maison-individuelle-paiements-garanties
 draft: false
 ---
 

@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/financer-achat-terrain-a-batir-pret/partage.jpg
 image_credit: Photo : Département Loire-Atlantique, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Terrain_d%27un_futur_lotissement_%C3%A0_Ch%C3%A9m%C3%A9r%C3%A9.jpg), recadrée
 image_alt: Vue aérienne d'un grand champ labouré brun, bordé à gauche de jardins potagers et de toits de maisons, et à droite d'une prairie verte
 image_caption: Illustration : vue aérienne d'un terrain destiné à un futur lotissement (Chéméré, Loire-Atlantique). Ce n'est pas le Clos des Cyprès.
-related: budget-terrain-maison-pres-aix-gardanne, promesse-de-vente-terrain-lotissement, frais-de-notaire-terrain-a-batir, construire-sa-maison-etapes-du-terrain-aux-cles
+related: budget-terrain-maison-pres-aix-gardanne, promesse-de-vente-terrain-lotissement, frais-de-notaire-terrain-a-batir, construire-sa-maison-etapes-du-terrain-aux-cles, ccmi-contrat-construction-maison-individuelle-paiements-garanties
 draft: false
 ---
 

@@ -10,7 +10,7 @@ image: /images-optimized/aerial-lotissement-collines-gardanne-1024.avif
 image_alt: Photographie aérienne du Clos des Cyprès à Biver, avant les travaux : prairie bordée de pins et de haies, avec le village et les collines boisées autour
 image_caption: Le terrain du Clos des Cyprès à Biver avant les travaux, vu du ciel.
 og_image: /images-optimized/aerial-lotissement-collines-gardanne-og-v2.jpg
-related: budget-terrain-maison-pres-aix-gardanne, frais-de-notaire-terrain-a-batir, surface-terrain-maison-piscine, permis-de-construire-maison-individuelle-dossier, abri-de-jardin-annexe-declaration-permis-surface
+related: budget-terrain-maison-pres-aix-gardanne, frais-de-notaire-terrain-a-batir, surface-terrain-maison-piscine, permis-de-construire-maison-individuelle-dossier, abri-de-jardin-annexe-declaration-permis-surface, piscine-privee-securite-barriere-alarme-couverture-abri, taxe-fonciere-maison-neuve-exoneration-declaration-90-jours
 draft: false
 ---
 

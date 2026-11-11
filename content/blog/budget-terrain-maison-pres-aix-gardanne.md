@@ -12,7 +12,7 @@ image_width: 1600
 image_height: 900
 image_alt: Vue aérienne par drone d'une prairie et du hameau de Biver, entouré de collines boisées, avec la montagne Sainte-Victoire à l'horizon
 og_image: /images-optimized/blog/budget-terrain-maison-pres-aix-gardanne/partage.jpg
-related: construire-sa-maison-etapes-du-terrain-aux-cles, frais-de-notaire-terrain-a-batir, guide-acheter-terrain-lotissement-gardanne-biver
+related: construire-sa-maison-etapes-du-terrain-aux-cles, frais-de-notaire-terrain-a-batir, guide-acheter-terrain-lotissement-gardanne-biver, taxe-fonciere-maison-neuve-exoneration-declaration-90-jours
 draft: false
 ---
 
