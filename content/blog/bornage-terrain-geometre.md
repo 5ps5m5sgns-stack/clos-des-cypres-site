@@ -13,7 +13,7 @@ og_image: /images-optimized/blog/bornage-terrain-geometre/partage.jpg
 image_credit: Photo : RobOrRoss, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caux_-_Borne_de_la_Font_des_Ormes.jpg), recadrée
 image_alt: Borne de pierre en granit surmontée d'un anneau de fer, au bord d'un chemin de terre, devant un bâtiment en pierre et des herbes sèches
 image_caption: Illustration : une borne de limite de propriété à Caux (Hérault). Ce n'est pas un terrain du projet.
-related: guide-acheter-terrain-lotissement-gardanne-biver, promesse-de-vente-terrain-lotissement, verifier-avant-dacheter-terrain-biver-gardanne
+related: guide-acheter-terrain-lotissement-gardanne-biver, promesse-de-vente-terrain-lotissement, verifier-avant-dacheter-terrain-biver-gardanne, haie-arbres-cloture-limite-terrain-distances
 draft: false
 ---
 

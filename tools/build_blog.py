@@ -60,7 +60,7 @@ AUTHOR_LD_NAME = "Le Clos des Cyprès"             # auteur dans le JSON-LD : l'
 PHONE_DISPLAY = "06 09 20 45 90"
 PHONE_TEL = "+33609204590"
 
-PAGE_SIZE = 24            # articles par page d'index
+PAGE_SIZE = 30            # articles par page d'index
 FEED_SIZE = 20            # articles dans le flux RSS
 RELATED_MAX = 3           # « À lire aussi »
 TOC_MIN_H2 = 3            # sommaire affiché à partir de 3 intertitres H2

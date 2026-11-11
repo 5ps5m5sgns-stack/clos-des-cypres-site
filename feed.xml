@@ -5,9 +5,25 @@
     <link>https://clos-des-cypres.fr/blog/</link>
     <description>Guides pratiques pour acheter un terrain à bâtir et construire sa maison en Provence, près de Biver : démarches, règles, budget et financement.</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:00:00 GMT</lastBuildDate>
     <generator>build_blog.py</generator>
     <atom:link href="https://clos-des-cypres.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Abri de jardin et annexe : déclaration ou permis ?</title>
+      <link>https://clos-des-cypres.fr/blog/abri-de-jardin-annexe-declaration-permis-surface/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/abri-de-jardin-annexe-declaration-permis-surface/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>Abri de jardin, annexe, carport : aucune formalité jusqu'à 5 m², déclaration préalable jusqu'à 20 m², permis au-delà. Seuils, calcul et PLUi.</description>
+    </item>
+    <item>
+      <title>Haie en limite de propriété : distances, clôture et mur</title>
+      <link>https://clos-des-cypres.fr/blog/haie-arbres-cloture-limite-terrain-distances/</link>
+      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/haie-arbres-cloture-limite-terrain-distances/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <category>Construire en Provence</category>
+      <description>Haie en limite de propriété : distances de plantation (2 m, 0,50 m), clôture et mur de 2 m. Déclaration préalable, lotissement et PLUi.</description>
+    </item>
     <item>
       <title>Constructeur ou architecte : quel contrat pour sa maison ?</title>
       <link>https://clos-des-cypres.fr/blog/architecte-constructeur-maitre-d-oeuvre-quel-contrat/</link>
@@ -151,22 +167,6 @@
       <pubDate>Tue, 06 Oct 2026 08:00:00 GMT</pubDate>
       <category>Acheter un terrain</category>
       <description>Terrain à bâtir, constructible, viabilisé : trois mots, trois sens. Comment savoir si un terrain est constructible et viabilisé avant d'acheter.</description>
-    </item>
-    <item>
-      <title>Budget pour construire une maison près d'Aix-en-Provence</title>
-      <link>https://clos-des-cypres.fr/blog/budget-terrain-maison-pres-aix-gardanne/</link>
-      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/budget-terrain-maison-pres-aix-gardanne/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>Financer son projet</category>
-      <description>Budget pour construire une maison près d'Aix-en-Provence : postes, qui paie et quand, taxe d'aménagement, mise de fonds, financement et PTZ 2026.</description>
-    </item>
-    <item>
-      <title>Construire sur un terrain en pente en Provence : restanques</title>
-      <link>https://clos-des-cypres.fr/blog/construire-sur-terrain-en-pente-restanques-provence/</link>
-      <guid isPermaLink="true">https://clos-des-cypres.fr/blog/construire-sur-terrain-en-pente-restanques-provence/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>Construire en Provence</category>
-      <description>Construire sur un terrain en pente en Provence : restanques, murs de soutènement, déblais et remblais du PLUi, étude de sol G2, piscine et accès.</description>
     </item>
   </channel>
 </rss>
