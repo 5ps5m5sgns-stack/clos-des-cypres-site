@@ -33,7 +33,7 @@ Gardanne, dans les Bouches-du-Rhône, compte 21 597 habitants en 2023 selon l'IN
 
 ### Biver, un quartier de Gardanne
 
-Biver n'est pas une commune : c'est un quartier de Gardanne. La mairie parle du « quartier Biver » ; l'annuaire de l'éducation nationale domicilie ses deux écoles élémentaires au « hameau de Biver ». Le code postal est celui de Gardanne : 13120. Le Clos des Cyprès, avenue du Pilon du Roy, se trouve à environ 3,7 km du cours de la République par la route (itinéraire OpenStreetMap, hors trafic).
+Biver n'est pas une commune : c'est un quartier de Gardanne. La mairie parle du « quartier Biver » ; l'annuaire de l'éducation nationale domicilie ses deux écoles élémentaires au « hameau de Biver ». Le code postal est celui de Gardanne : 13120. Le Clos des Cyprès, avenue du Pilon du Roy, se trouve à environ 3,7 km du cours de la République par la route (itinéraire OpenStreetMap, hors trafic). Le quartier est né d'un puits de mine creusé en 1891 : voir [l'histoire de Biver](/blog/histoire-de-biver-gardanne-puits-terrils-sainte-barbe/).
 
 ### Une histoire minière encore visible
 
