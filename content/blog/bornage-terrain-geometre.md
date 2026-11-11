@@ -17,7 +17,7 @@ related: guide-acheter-terrain-lotissement-gardanne-biver, promesse-de-vente-ter
 draft: false
 ---
 
-Faire un **bornage terrain**, c'est fixer la limite exacte entre deux propriétés privées et la matérialiser sur place par des bornes. Il n'est pas obligatoire par principe, mais l'acte de vente d'un terrain destiné à une maison doit dire si le descriptif résulte d'un bornage, et pour un lot de lotissement ce descriptif doit en résulter. Les huit [terrains libres de constructeur](/lots) du Clos des Cyprès, à Biver, sont livrés viabilisés et bornés.
+Faire un **bornage terrain**, c'est fixer la limite exacte entre deux propriétés privées et la matérialiser sur place par des bornes. Il n'est pas obligatoire par principe, mais l'acte de vente d'un terrain destiné à une maison doit dire si le descriptif résulte d'un bornage, et pour un lot de lotissement ce descriptif doit en résulter. Les huit [terrains libres de constructeur](/lots) du Clos des Cyprès, à Biver, sont livrés viabilisés et bornés. Le bornage sert aussi à mesurer les distances de plantation et de vue : voir [haie en limite de propriété](/blog/haie-arbres-cloture-limite-terrain-distances/) et [fenêtre en limite de propriété](/blog/fenetre-limite-propriete-distances-vues-voisin/).
 
 Règles en vigueur au 14/10/2026. Cet article est une information générale, pas un conseil juridique : pour votre dossier, le notaire reste l'interlocuteur.
 

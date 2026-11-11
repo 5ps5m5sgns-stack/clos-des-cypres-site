@@ -57,7 +57,7 @@ Ce que le CCMI protège (détail dans [construire sa maison, du terrain aux clé
 - des **pénalités de retard** d'au moins 1/3 000 du prix par jour ;
 - la **garantie de livraison**, une caution donnée par une banque, une société de financement ou un assureur agréé, avec une attestation annexée au contrat (Service-Public, page vérifiée le 12/12/2025).
 
-Un CCMI ne dispense pas des assurances : voir [dommages-ouvrage et garantie décennale](/blog/dommages-ouvrage-garantie-decennale-maison-neuve/).
+Un CCMI ne dispense pas des assurances : voir [dommages-ouvrage et garantie décennale](/blog/dommages-ouvrage-garantie-decennale-maison-neuve/). Le contrat lui-même (mentions, conditions suspensives, rétractation, paiements) est détaillé dans [CCMI : contrat de construction, paiements et garanties](/blog/ccmi-contrat-construction-maison-individuelle-paiements-garanties/).
 
 ## Architecte ou maître d'œuvre : quand et pourquoi ?
 

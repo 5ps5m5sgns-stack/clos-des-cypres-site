@@ -119,7 +119,7 @@ Aucune distance nationale ne s'applique à toutes les piscines : elle vient du r
 - **1 m** des limites séparatives en zones UA et UB ;
 - **2 m** des limites séparatives en zones UC et UD.
 
-Ces valeurs ne concernent que le bassin non couvert : lisez le texte de votre zone pour les piscines couvertes et les locaux techniques. Demandez aussi à l'instructeur si la distance se mesure depuis le bord du bassin ou depuis la margelle : selon une DDT, le Conseil d'État juge le bassin et ses parties maçonnées indissociables. Cette DDT note, à propos d'un autre PLU, qu'une piscine est une construction mais pas un bâtiment : une règle visant les « bâtiments » ne vise pas un bassin non couvert.
+Ces valeurs ne concernent que le bassin non couvert : lisez le texte de votre zone pour les piscines couvertes et les locaux techniques. Demandez aussi à l'instructeur si la distance se mesure depuis le bord du bassin ou depuis la margelle : selon une DDT, le Conseil d'État juge le bassin et ses parties maçonnées indissociables. Cette DDT note, à propos d'un autre PLU, qu'une piscine est une construction mais pas un bâtiment : une règle visant les « bâtiments » ne vise pas un bassin non couvert. Pour la sécurité du bassin (barrière, alarme, couverture, abri), voir [la sécurité d'une piscine privée](/blog/piscine-privee-securite-barriere-alarme-couverture-abri/) ; pour les fenêtres et terrasses vers le voisin, voir [les distances de vue](/blog/fenetre-limite-propriete-distances-vues-voisin/).
 
 ## Piscine et règlement de lotissement : que vérifier avant d'acheter ?
 

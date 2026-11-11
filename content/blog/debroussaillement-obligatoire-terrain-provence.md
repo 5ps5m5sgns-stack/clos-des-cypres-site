@@ -17,7 +17,7 @@ related: verifier-avant-dacheter-terrain-biver-gardanne, promesse-de-vente-terra
 draft: false
 ---
 
-Le **débroussaillement obligatoire** concerne les terrains situés dans un massif forestier classé à risque d'incendie ou à moins de 200 mètres de celui-ci. Dans les Bouches-du-Rhône, le propriétaire débroussaille 50 mètres autour de sa construction (100 mètres si le maire l'a décidé), et la totalité d'un terrain situé en zone urbaine ou en lotissement, bâti ou non. Le terrain du [Clos des Cyprès](/lots), à Biver, est situé dans une zone soumise aux obligations légales de débroussaillement (OLD, art. L. 134-6 du code forestier) : voici ce que cela change pour un acheteur.
+Le **débroussaillement obligatoire** concerne les terrains situés dans un massif forestier classé à risque d'incendie ou à moins de 200 mètres de celui-ci. Dans les Bouches-du-Rhône, le propriétaire débroussaille 50 mètres autour de sa construction (100 mètres si le maire l'a décidé), et la totalité d'un terrain situé en zone urbaine ou en lotissement, bâti ou non. Le terrain du [Clos des Cyprès](/lots), à Biver, est situé dans une zone soumise aux obligations légales de débroussaillement (OLD, art. L. 134-6 du code forestier) : voici ce que cela change pour un acheteur. Pour les distances de plantation en limite de propriété, voir [haie en limite de propriété](/blog/haie-arbres-cloture-limite-terrain-distances/).
 
 :::callout L'essentiel
 - L'obligation vise les terrains à moins de 200 m des bois, forêts, landes, maquis et garrigues classés. La carte de la préfecture permet de vérifier une adresse.

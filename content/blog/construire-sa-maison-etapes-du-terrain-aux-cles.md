@@ -96,7 +96,7 @@ Le Clos des Cyprès réunit huit terrains à bâtir libres de constructeur à Bi
 
 ## CCMI : avec ou sans fourniture de plan, quelles garanties ?
 
-Le contrat de construction de maison individuelle (CCMI) est obligatoire dans deux cas : le constructeur prend en charge la construction complète, ou il réalise au moins le gros œuvre, la mise hors d'eau et la mise hors d'air. Il ne permet pas de construire plus de deux logements, il est écrit et signé avant le début des travaux (Service-Public). Il existe en deux versions.
+Le contrat de construction de maison individuelle (CCMI) est obligatoire dans deux cas : le constructeur prend en charge la construction complète, ou il réalise au moins le gros œuvre, la mise hors d'eau et la mise hors d'air. Il ne permet pas de construire plus de deux logements, il est écrit et signé avant le début des travaux (Service-Public). Il existe en deux versions. Le détail du contrat, des paiements et des garanties est dans [CCMI : contrat de construction, paiements et garanties](/blog/ccmi-contrat-construction-maison-individuelle-paiements-garanties/).
 
 Tableau : CCMI avec ou sans fourniture de plan
 
@@ -160,7 +160,7 @@ La réception ouvre trois garanties (Service-Public) : parfait achèvement penda
 
 ### DAACT : la déclaration de fin de travaux
 
-À la fin des travaux, vous déposez la déclaration attestant l'achèvement et la conformité des travaux (DAACT) à la mairie. La mairie a trois mois pour contester la conformité, cinq mois dans certains secteurs protégés ou à risques. Vous pouvez demander une attestation de non-contestation. Sans contestation dans le délai, les travaux sont considérés comme achevés et conformes (Service-Public).
+À la fin des travaux, vous déposez la déclaration attestant l'achèvement et la conformité des travaux (DAACT) à la mairie. La mairie a trois mois pour contester la conformité, cinq mois dans certains secteurs protégés ou à risques. Vous pouvez demander une attestation de non-contestation. Sans contestation dans le délai, les travaux sont considérés comme achevés et conformes (Service-Public). La déclaration faite aux impôts, qui conditionne l'exonération de taxe foncière de deux ans, est une autre démarche : voir [la taxe foncière d'une maison neuve](/blog/taxe-fonciere-maison-neuve-exoneration-declaration-90-jours/).
 
 Reste la déclaration de la construction aux impôts, au plus tard 90 jours après l'achèvement des travaux, depuis votre espace en ligne des Finances publiques, rubrique « Biens immobiliers ».
 

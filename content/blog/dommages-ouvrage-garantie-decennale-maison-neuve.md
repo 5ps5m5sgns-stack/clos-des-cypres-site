@@ -17,7 +17,7 @@ related: construire-sa-maison-etapes-du-terrain-aux-cles, budget-terrain-maison-
 draft: false
 ---
 
-L'**assurance dommages-ouvrage** rembourse les réparations d'un désordre grave de votre maison neuve sans attendre qu'on ait trouvé le responsable ; la **garantie décennale**, elle, oblige les constructeurs à réparer ce désordre pendant dix ans. Les deux partent de la même date : la réception des travaux. Avant de signer avec un constructeur ou un architecte sur l'un des huit [terrains libres de constructeur](/lots) du Clos des Cyprès, à Biver (Gardanne), voici ce que prévoient les textes. Le plan, la disponibilité et le prix des lots vous sont communiqués lors de notre échange avec l'aménageur PONTHIEU DH.
+L'**assurance dommages-ouvrage** rembourse les réparations d'un désordre grave de votre maison neuve sans attendre qu'on ait trouvé le responsable ; la **garantie décennale**, elle, oblige les constructeurs à réparer ce désordre pendant dix ans. Les deux partent de la même date : la réception des travaux. Avant de signer avec un constructeur ou un architecte sur l'un des huit [terrains libres de constructeur](/lots) du Clos des Cyprès, à Biver (Gardanne), voici ce que prévoient les textes. Le plan, la disponibilité et le prix des lots vous sont communiqués lors de notre échange avec l'aménageur PONTHIEU DH. Pour le contrat qui impose ces garanties à un constructeur, voir [CCMI : contrat de construction, paiements et garanties](/blog/ccmi-contrat-construction-maison-individuelle-paiements-garanties/).
 
 Règles en vigueur au 29/10/2026. Cet article est une information générale, pas un conseil juridique ni un conseil en assurance : votre courtier, votre assureur et votre notaire restent vos interlocuteurs.
 
