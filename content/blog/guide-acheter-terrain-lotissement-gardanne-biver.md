@@ -12,7 +12,7 @@ image_width: 1600
 image_height: 900
 image_alt: Vue aérienne par drone d'une prairie en bordure d'un quartier résidentiel de jardins et de piscines, au pied d'un bois de pins, avec des collines boisées à l'horizon, à Biver
 og_image: /images-optimized/blog/guide-acheter-terrain-lotissement-gardanne-biver/partage.jpg
-related: viabilisation-terrain-raccordements, frais-de-notaire-terrain-a-batir, construire-sa-maison-etapes-du-terrain-aux-cles
+related: viabilisation-terrain-raccordements, frais-de-notaire-terrain-a-batir, construire-sa-maison-etapes-du-terrain-aux-cles, ecoles-gardanne-biver-liste-officielle
 draft: false
 ---
 

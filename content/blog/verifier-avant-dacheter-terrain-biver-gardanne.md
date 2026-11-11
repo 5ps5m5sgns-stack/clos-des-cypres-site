@@ -12,7 +12,7 @@ image_width: 1600
 image_height: 900
 image_alt: Vue de drone rapprochée d'une prairie close par un grillage et un muret, avec une voie étroite à gauche, des pins et des conifères, et un bois de pins au fond
 og_image: /images-optimized/blog/verifier-avant-dacheter-terrain-biver-gardanne/partage.jpg
-related: frais-de-notaire-terrain-a-batir, viabilisation-terrain-raccordements, construire-sur-terrain-en-pente-restanques-provence
+related: frais-de-notaire-terrain-a-batir, viabilisation-terrain-raccordements, construire-sur-terrain-en-pente-restanques-provence, ecoles-gardanne-biver-liste-officielle
 draft: false
 ---
 

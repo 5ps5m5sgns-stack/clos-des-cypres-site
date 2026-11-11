@@ -13,11 +13,11 @@ image_alt: Panorama de collines couvertes de pins, avec au loin la plaine de Gar
 image_caption: Vue panoramique de Meyreuil et de Gardanne (Bouches-du-Rhône).
 og_image: /images-optimized/blog/vivre-a-gardanne-et-biver/partage.jpg
 image_credit: Photo : [François GOGLINS](https://commons.wikimedia.org/wiki/User:Fran%C3%A7ois_GOGLINS), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meyreuil_et_Gardanne-FR-13-vue_panoramique-a1.jpg), recadrée
-related: guide-acheter-terrain-lotissement-gardanne-biver, budget-terrain-maison-pres-aix-gardanne, verifier-avant-dacheter-terrain-biver-gardanne
+related: guide-acheter-terrain-lotissement-gardanne-biver, budget-terrain-maison-pres-aix-gardanne, verifier-avant-dacheter-terrain-biver-gardanne, ecoles-gardanne-biver-liste-officielle
 draft: false
 ---
 
-**Vivre à Gardanne**, c'est habiter une commune de 21 597 habitants (INSEE, 2023) dont la gare TER met 8 à 9 minutes pour rejoindre Aix-en-Provence et 27 à 36 minutes pour Marseille-Saint-Charles. Biver, ancienne cité minière de la commune (code postal 13120), compte trois écoles publiques et des commerces de proximité. Voici distances, écoles, commerces et démarches, sources à l'appui, pour qui cherche un [terrain à bâtir à Gardanne](/terrain-a-batir-gardanne).
+**Vivre à Gardanne**, c'est habiter une commune de 21 597 habitants (INSEE, 2023) dont la gare TER met 8 à 9 minutes pour rejoindre Aix-en-Provence et 27 à 36 minutes pour Marseille-Saint-Charles. Biver, ancienne cité minière de la commune (code postal 13120), compte trois écoles publiques et des commerces de proximité. Voici distances, écoles, commerces et démarches, sources à l'appui, pour qui cherche un [terrain à bâtir à Gardanne](/terrain-a-batir-gardanne). La liste officielle des écoles, collèges et lycées de la commune, avec leur distance depuis le Clos des Cyprès, est dans [écoles à Gardanne et Biver](/blog/ecoles-gardanne-biver-liste-officielle/).
 
 :::callout L'essentiel
 - **Population** : 21 597 habitants en 2023 (INSEE).
