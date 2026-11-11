@@ -26,7 +26,7 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: geolocation=(), microphone=(), camera=(), browsing-topics=()
-  Strict-Transport-Security: max-age=300
+  Strict-Transport-Security: max-age=2592000
   Cross-Origin-Opener-Policy: same-origin
   X-DNS-Prefetch-Control: on
 
