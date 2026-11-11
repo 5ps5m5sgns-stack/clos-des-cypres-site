@@ -19,7 +19,7 @@ draft: false
 
 Le **règlement de lotissement** fixe des règles de construction propres à un lotissement : implantation, hauteur, aspect, clôtures, plantations. Il se distingue du **cahier des charges**, un contrat entre les propriétaires de lots (les colotis), et du **PLUi**, le document d'urbanisme de tout le territoire. Les trois s'additionnent : le règlement devient caduc dix ans après l'autorisation du lotissement si un PLU le couvre, le cahier des charges continue de lier les colotis. Ce guide vaut pour tout lotissement, dont les huit [lots libres de constructeur du Clos des Cyprès](/lots), à Biver. Pour les plantations, les clôtures, les fenêtres et les annexes, voir [haie en limite de propriété](/blog/haie-arbres-cloture-limite-terrain-distances/), [les distances de vue](/blog/fenetre-limite-propriete-distances-vues-voisin/) et [abri de jardin et annexe](/blog/abri-de-jardin-annexe-declaration-permis-surface/).
 
-Règles en vigueur au 14/10/2026. Information générale, pas un conseil juridique : le notaire reste l'interlocuteur pour votre dossier.
+Règles en vigueur au 14/10/2026. Information générale, pas un conseil juridique : le notaire reste l'interlocuteur pour votre dossier. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - Le **règlement de lotissement** est facultatif : il complète le PLUi par des règles plus strictes, et la mairie l'applique au permis de construire.

@@ -16,7 +16,7 @@ related: construire-sa-maison-etapes-du-terrain-aux-cles, guide-acheter-terrain-
 draft: false
 ---
 
-Un **terrain libre de constructeur** est un terrain à bâtir que vous achetez sans devoir confier la construction à une entreprise désignée par le vendeur : vous choisissez votre architecte ou votre constructeur. L'expression est commerciale, pas juridique, et ne dit rien des règles à respecter. Au Clos des Cyprès, à Biver, [les huit terrains](/lots) sont libres de constructeur.
+Un **terrain libre de constructeur** est un terrain à bâtir que vous achetez sans devoir confier la construction à une entreprise désignée par le vendeur : vous choisissez votre architecte ou votre constructeur. L'expression est commerciale, pas juridique, et ne dit rien des règles à respecter. Au Clos des Cyprès, à Biver, [les huit terrains](/lots) sont libres de constructeur. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - **Définition** : « libre de constructeur » signifie que vous choisissez qui conçoit et construit. C'est un terme d'usage, pas une notion définie par la loi.

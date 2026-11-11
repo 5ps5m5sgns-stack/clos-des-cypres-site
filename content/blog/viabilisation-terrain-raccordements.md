@@ -190,7 +190,7 @@ Le programme prévoit des terrains livrés viabilisés, voirie et réseaux amen�
 :::
 
 :::source Sources
-- [Obligations du vendeur d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484), Service-Public, vérifiée le 20/06/2025, consultée le 09/10/2026.
+- [Obligations du vendeur d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484), Service-Public, vérifiée le 14/10/2026, consultée le 09/10/2026 puis relue le 11/11/2026.
 - [Assainissement des eaux usées domestiques](https://www.service-public.gouv.fr/particuliers/vosdroits/F447), Service-Public, vérifiée le 12/12/2025, consultée le 09/10/2026.
 - [Certificat d'urbanisme](https://www.service-public.gouv.fr/particuliers/vosdroits/F1633), Service-Public, vérifiée le 02/07/2025, consultée le 09/10/2026. [Taxe d'aménagement](https://www.service-public.gouv.fr/particuliers/vosdroits/F23263), Service-Public, consultée le 09/10/2026.
 - Code de l'urbanisme, Légifrance, consulté le 09/10/2026 : [L. 332-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141958) (en vigueur au 28/05/2026), [L. 111-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210199), [R. 431-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600947) (en vigueur au 17/04/2026).

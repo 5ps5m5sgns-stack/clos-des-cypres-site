@@ -19,7 +19,7 @@ draft: false
 
 **Promesse de vente terrain lotissement** : une fois le permis d'aménager délivré, le lotisseur ne peut vous proposer qu'une promesse unilatérale de vente (selon Service-Public), et non un compromis. Elle réserve le lot, peut s'accompagner d'une indemnité d'immobilisation limitée à 5 % du prix et consignée, et laisse dix jours pour se rétracter. L'acte authentique suit chez le notaire, en principe une fois les équipements collectifs achevés. Pour les [huit lots libres de constructeur](/lots) du Clos des Cyprès, à Biver, il se signe à la livraison, prévue en mars 2027.
 
-Les règles citées sont celles en vigueur au 14/10/2026, pour un lotissement soumis à permis d'aménager. Cet article est une information générale, pas un conseil juridique : pour votre dossier, le notaire reste l'interlocuteur.
+Les règles citées sont celles en vigueur au 14/10/2026, pour un lotissement soumis à permis d'aménager. Cet article est une information générale, pas un conseil juridique : pour votre dossier, le notaire reste l'interlocuteur. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - Aucune promesse ni acompte avant la délivrance du permis d'aménager (art. L. 442-4 du code de l'urbanisme) ; ensuite, seule la promesse unilatérale est possible.

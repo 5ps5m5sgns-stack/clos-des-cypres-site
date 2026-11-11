@@ -16,7 +16,7 @@ draft: false
 
 Pour **construire sa maison**, comptez neuf étapes : projet et budget, terrain, faisabilité, choix de qui construit, financement, permis de construire, chantier, réception, puis déclaration d'achèvement. Chacune a ses interlocuteurs, ses documents et ses délais, détaillés ici avec les textes officiels. Si vous cherchez un [terrain à bâtir à Gardanne](/terrain-a-batir-gardanne), le Clos des Cyprès propose huit [terrains libres de constructeur](/lots) à Biver.
 
-Règles en vigueur au 09/10/2026. Information générale : elle ne remplace pas l'avis de votre notaire, de votre architecte ou de votre constructeur.
+Règles en vigueur au 09/10/2026. Information générale : elle ne remplace pas l'avis de votre notaire, de votre architecte ou de votre constructeur. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - Neuf étapes, dans cet ordre : projet et budget, terrain, faisabilité, qui construit, financement, permis, chantier, réception, DAACT.

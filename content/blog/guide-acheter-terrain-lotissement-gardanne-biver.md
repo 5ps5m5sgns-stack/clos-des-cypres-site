@@ -3,7 +3,7 @@ title: Acheter un terrain en lotissement à Gardanne : les étapes
 description: Acheter un terrain en lotissement à Gardanne : étapes, documents remis avant signature, promesse, rétractation et délais pour construire.
 slug: guide-acheter-terrain-lotissement-gardanne-biver
 date: 2026-10-05
-updated: 2026-10-09
+updated: 2026-11-11
 category: acheter-un-terrain
 tags: terrain en lotissement, promesse de vente, cahier des charges, permis d'aménager, Gardanne, Biver
 keyword: acheter un terrain en lotissement
@@ -18,7 +18,7 @@ draft: false
 
 Pour **acheter un terrain en lotissement**, on visite le lot, on lit les documents du lotissement, on signe une promesse de vente (dix jours pour se rétracter), puis l'acte chez le notaire, et l'on dépose le permis de construire. Ces étapes valent à Gardanne comme ailleurs, et pour les [huit lots libres de constructeur du Clos des Cyprès](/lots), à Biver, vendus par l'aménageur.
 
-Règles en vigueur au 09/10/2026, pour un lotissement sous permis d'aménager. Information générale : pour votre situation, le notaire fait foi.
+Règles en vigueur au 09/10/2026, pour un lotissement sous permis d'aménager. Information générale : pour votre situation, le notaire fait foi. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - Le permis d'aménager et, s'il existe, le cahier des charges doivent vous être communiqués avant la signature (art. L. 442-7).
@@ -54,7 +54,7 @@ Trois sujets ont leur propre guide ; voici l'essentiel de chacun.
 
 ## Quels documents vous remet le lotisseur avant la signature ?
 
-Le permis d'aménager et, s'il y a lieu, le cahier des charges sont remis à l'acquéreur lors de la signature de la promesse ou de l'acte. Ils doivent lui avoir été communiqués avant (art. L. 442-7 du code de l'urbanisme). Service-Public ajoute, parmi les annexes de la promesse, le règlement du lotissement, les statuts de l'association syndicale libre, l'état des risques et pollutions et, dans les zones exposées, l'étude de sol. Si le lotisseur répartit la surface de plancher entre les lots, il remet aussi un certificat de la surface constructible sur votre lot, à joindre au permis de construire (art. R. 442-11).
+Le permis d'aménager et, s'il y a lieu, le cahier des charges sont remis à l'acquéreur lors de la signature de la promesse ou de l'acte. Ils doivent lui avoir été communiqués avant (art. L. 442-7 du code de l'urbanisme). Service-Public ajoute, parmi les annexes de la promesse, le règlement du lotissement, les statuts de l'association syndicale libre, l'état des risques et pollutions et, dans les zones exposées, l'étude de sol. Dans les secteurs concernés par un plan de prévention des risques technologiques, miniers ou naturels, la sismicité, le radon, le recul du trait de côte ou le débroussaillement, l'annonce doit préciser comment accéder aux informations sur les risques, et l'état des risques doit être remis à l'acheteur lors de la première visite du terrain (Service-Public, page vérifiée le 14/10/2026). Si le lotisseur répartit la surface de plancher entre les lots, il remet aussi un certificat de la surface constructible sur votre lot, à joindre au permis de construire (art. R. 442-11).
 
 Tableau : Permis d'aménager, règlement, cahier des charges : qui régit quoi
 
@@ -178,7 +178,7 @@ En principe, oui : selon Service-Public, le vendeur doit livrer un terrain const
 :::
 
 :::source Sources
-- Service-Public, consulté le 09/10/2026 : [Promesse de vente d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F16455) (page mise à jour le 06/10/2026) ; [Acte de vente d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F12702) (mise à jour le 08/10/2026) ; [Obligations du vendeur d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484) (mise à jour le 20/06/2025).
+- Service-Public, consulté le 09/10/2026 : [Promesse de vente d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F16455) (page mise à jour le 06/10/2026) ; [Acte de vente d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F12702) (mise à jour le 08/10/2026) ; [Obligations du vendeur d'un terrain situé dans un lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484) (mise à jour le 14/10/2026, relue le 11/11/2026).
 - Service-Public, consulté le 09/10/2026 : [Promesse de vente d'un terrain isolé à bâtir](https://www.service-public.gouv.fr/particuliers/vosdroits/F2057) (mise à jour le 24/06/2025) ; [Certificat d'urbanisme](https://www.service-public.gouv.fr/particuliers/vosdroits/F1633) (vérifié le 02/07/2025).
 - Service-Public, consulté le 09/10/2026 : [Permis de construire](https://www.service-public.gouv.fr/particuliers/vosdroits/F1986) (vérifié le 13/02/2026) ; [Construire sa maison : quel contrat passer ?](https://www.service-public.gouv.fr/particuliers/vosdroits/F34554).
 - Code de l'urbanisme, Légifrance, consulté le 09/10/2026 : [L. 442-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815993), [L. 442-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815996), [L. 442-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667953), [L. 442-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052866874), [L. 442-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052866862), [L. 442-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037694107), [L. 332-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141958), [R. 442-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047280445), [R. 442-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006819520), [R. 442-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006819794), [R. 442-18](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025430929), [R. 423-23](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006819920), [R. 424-17](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031830633), [R. 424-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043940372), [R. 600-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006820365).

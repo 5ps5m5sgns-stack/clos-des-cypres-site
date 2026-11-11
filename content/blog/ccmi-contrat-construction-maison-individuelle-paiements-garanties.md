@@ -16,7 +16,7 @@ draft: false
 
 Le **CCMI**, ou contrat de construction de maison individuelle, est un contrat écrit par lequel un constructeur s'engage sur un **prix forfaitaire**, un **délai** et une **garantie de livraison**. Il se signe avec le plan, la notice descriptive et la notice d'information. Vous disposez de **10 jours** pour vous rétracter, et les paiements suivent l'avancement du chantier : de 15 % à l'ouverture jusqu'à 95 %, le solde étant dû à la réception.
 
-Ces règles concernent les terrains libres de constructeur, comme les huit [terrains du Clos des Cyprès](/lots), à Biver : l'acheteur choisit son constructeur ou son architecte. Les règles citées sont celles de la fiche Service-Public vérifiée le 10/07/2026 et de la page de l'ANIL, relues le 11/11/2026. Cet article est une information générale, pas un conseil juridique : faites relire votre contrat avant de le signer.
+Ces règles concernent les terrains libres de constructeur, comme les huit [terrains du Clos des Cyprès](/lots), à Biver : l'acheteur choisit son constructeur ou son architecte. Les règles citées sont celles de la fiche Service-Public vérifiée le 10/07/2026 et de la page de l'ANIL, relues le 11/11/2026. Cet article est une information générale, pas un conseil juridique : faites relire votre contrat avant de le signer. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - Le CCMI est écrit et signé avec le plan, la notice descriptive et la notice d'information.

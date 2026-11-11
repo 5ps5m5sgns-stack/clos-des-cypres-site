@@ -3,7 +3,7 @@ title: Terrain à bâtir, constructible, viabilisé : les différences
 description: Terrain à bâtir, constructible, viabilisé : trois mots, trois sens. Comment savoir si un terrain est constructible et viabilisé avant d'acheter.
 slug: terrain-a-batir-constructible-viabilise-differences
 date: 2026-10-06
-updated: 2026-10-09
+updated: 2026-11-11
 category: acheter-un-terrain
 tags: terrain à bâtir, terrain constructible, terrain viabilisé, PLUi, certificat d'urbanisme, Géoportail de l'urbanisme
 keyword: terrain à bâtir, constructible, viabilisé
@@ -16,7 +16,7 @@ draft: false
 
 **Terrain à bâtir, constructible, viabilisé** : trois mots que les annonces mêlent sans qu'ils disent la même chose. « Constructible » renvoie aux règles d'urbanisme, « à bâtir » est d'abord une notion fiscale, « viabilisé » parle des réseaux. En lotissement, le lot doit être constructible, viabilisé et borné, comme les huit [terrains à bâtir de Biver](/terrain-a-batir-gardanne) ; ailleurs, chaque point se vérifie.
 
-Les textes cités sont ceux en vigueur au 09/10/2026. Information générale, non juridique : pour votre dossier, le notaire fait foi.
+Les textes cités sont ceux en vigueur au 09/10/2026. Information générale, non juridique : pour votre dossier, le notaire fait foi. Les mots techniques sont définis dans le [lexique du terrain à bâtir et de la construction](/blog/lexique-terrain-a-batir-construction-maison/).
 
 :::callout L'essentiel
 - **Constructible** : le PLU, le PLUi ou la carte communale (à défaut, le règlement national d'urbanisme) permet d'y construire. Le zonage se lit sur le Géoportail de l'urbanisme, pas sur le cadastre.
@@ -39,7 +39,7 @@ Tableau : Cinq expressions d'annonce, ce qu'elles disent et ce qu'elles laissent
 
 ## Terrain constructible : comment savoir si un terrain est constructible ?
 
-Service-Public le résume ainsi : un terrain constructible est « apte à recevoir et à supporter une construction ». Son sous-sol doit pouvoir porter la maison, et les règles d'urbanisme doivent l'autoriser. Cette seconde condition se lit dans le document qui couvre la commune :
+Service-Public le définit ainsi : « un terrain constructible est un terrain qui peut accueillir une construction ». Les règles d'urbanisme doivent permettre d'y construire, et le sous-sol doit être en capacité de supporter le poids et les charges de la future construction. La première condition se lit dans le document qui couvre la commune :
 
 - **le plan local d'urbanisme (PLU) ou intercommunal (PLUi)** découpe le territoire en zones et fixe un règlement par zone. À Gardanne, c'est le PLUi du Pays d'Aix, opposable depuis le 19 décembre 2024 ([mairie de Gardanne](https://www.ville-gardanne.fr/vivre-a-gardanne/urbanisme/plan-local-durbanisme/)) ;
 - **la carte communale**, document simple des petites communes, délimite les secteurs constructibles et les autres, sans règlement détaillé ([ministère de la Transition écologique](https://www.ecologie.gouv.fr/politiques-publiques/carte-communale-document-durbanisme-delivrer-autorisations-construire)) ;
@@ -172,7 +172,7 @@ Oui : les lots seront livrés viabilisés et bornés, proposés par l'aménageur
 :::
 
 :::source Sources
-- Service-Public, consultées le 09/10/2026 : [obligations du vendeur d'un terrain en lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484) (vérifiée le 20/06/2025), [certificat d'urbanisme](https://www.service-public.gouv.fr/particuliers/vosdroits/F1633) (02/07/2025), [permis de construire](https://www.service-public.gouv.fr/particuliers/vosdroits/F1986) (13/02/2026), [cadastre](https://www.service-public.gouv.fr/particuliers/vosdroits/F14226) (13/03/2025), [assainissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F447) (12/12/2025).
+- Service-Public, consultées le 09/10/2026 : [obligations du vendeur d'un terrain en lotissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F2484) (vérifiée le 14/10/2026, relue le 11/11/2026), [certificat d'urbanisme](https://www.service-public.gouv.fr/particuliers/vosdroits/F1633) (02/07/2025), [permis de construire](https://www.service-public.gouv.fr/particuliers/vosdroits/F1986) (13/02/2026), [cadastre](https://www.service-public.gouv.fr/particuliers/vosdroits/F14226) (13/03/2025), [assainissement](https://www.service-public.gouv.fr/particuliers/vosdroits/F447) (12/12/2025).
 - Taxe foncière, Service-Public, consultée le 09/10/2026 : [propriétés non bâties](https://entreprendre.service-public.gouv.fr/vosdroits/F31638) (vérifiée le 21/02/2026) et [propriétés bâties](https://www.service-public.gouv.fr/particuliers/vosdroits/F59) (25/09/2026).
 - [Achat d'un immeuble à bâtir](https://www.impots.gouv.fr/particulier/achat-dun-immeuble-batir), impots.gouv.fr, modifié le 07/01/2026, consulté le 09/10/2026.
 - [La vente d'un terrain à bâtir](https://www.notaires.fr/fr/article/la-vente-dun-terrain-batir), notaires.fr, mis à jour le 18/08/2026, consulté le 09/10/2026.
