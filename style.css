@@ -3535,6 +3535,19 @@ table.elegant thead th { font-size: .86rem; }
   .lotcard__cta { font-size: .66rem; letter-spacing: .07em; padding-top: .65rem; }
 }
 @media (max-width: 340px) { .lotgrid { grid-template-columns: 1fr; } }
+
+/* ── Vue 3D du lotissement : un aperçu, la scène (1,5 Mo) ne se charge qu'au clic ── */
+.vue3d { position: relative; max-width: 70rem; margin: 0 auto 2.4rem; }
+.vue3d__start, .vue3d iframe { position: relative; display: block; width: 100%; aspect-ratio: 16 / 9; min-height: 520px; border-radius: 14px; overflow: hidden; background: #a9c6da; border: 1px solid var(--trait); box-shadow: 0 20px 44px rgba(31, 48, 40, .16); }
+.vue3d iframe { border: 1px solid var(--trait); }
+.vue3d__start { padding: 0; cursor: pointer; }
+.vue3d__start img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.vue3d__go { position: absolute; left: 50%; top: 50%; display: inline-flex; align-items: center; gap: .65rem; padding: 1rem 1.8rem; border-radius: 999px; transform: translate(-50%, -50%); background: var(--ivoire); color: #1f3028; font: 500 1.08rem/1 var(--font-corps); letter-spacing: .04em; box-shadow: 0 10px 30px rgba(0, 0, 0, .35); transition: transform .35s var(--ease), background .35s var(--ease); }
+.vue3d__go svg { width: 1.4rem; height: 1.4rem; }
+.vue3d__start:hover .vue3d__go, .vue3d__start:focus-visible .vue3d__go { transform: translate(-50%, -50%) scale(1.05); background: #fff; }
+.vue3d__start:focus-visible { outline: 3px solid var(--or-deep); outline-offset: 3px; }
+.vue3d figcaption { margin-top: .9rem; text-align: center; }
+@media (max-width: 700px) { .vue3d__start, .vue3d iframe { aspect-ratio: 4 / 5; max-height: 80svh; min-height: 0;} }
 @media (prefers-reduced-motion: reduce) { .lotcard, .lotcard::before, .lotcard__cta em { transition: none; } .lotcard:hover { transform: none; } .lotcard.in .lotcard__bar::after { animation: none; } }
 
 /* ---------- Navigation d'ancres de la page /lots ---------- */
