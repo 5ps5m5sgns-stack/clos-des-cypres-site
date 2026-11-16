@@ -1,0 +1,14 @@
+{
+  "name": "clos-des-cypres-vue3d",
+  "private": true,
+  "description": "Source de la vue 3D du lotissement (/lotissement-3d). Voir README.md.",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild src/main.js --bundle --minify --format=iife --target=es2020 --legal-comments=eof --outfile=../../lotissement-3d.min.js",
+    "dev": "esbuild src/main.js --bundle --format=iife --target=es2020 --sourcemap=inline --outfile=../../lotissement-3d.min.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "three": "0.187.0"
+  }
+}

@@ -2,6 +2,8 @@
 
 Rien ici n'est chargé par les pages. Python 3.9 suffit (macOS), sans Node.
 
+Exception : la vue 3D du lotissement (`/lotissement-3d`) se fabrique avec Node, voir `tools/vue3d/README.md`.
+
 ## Régénérer les fichiers `.min.js`
 
 `main.min.js`, `consent.min.js` et `animations.min.js` sont les versions allégées de
