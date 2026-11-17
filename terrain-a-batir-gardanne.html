@@ -246,17 +246,33 @@
 <body>
   <a class="skip-link" href="#contenu">Aller au contenu principal</a>
 
-  <!-- NAVBAR allégée — landing : pas de menu, un seul objectif de conversion -->
+  <!-- NAVBAR -->
   <header class="nav">
     <a class="nav__brand" href="/" data-no-transition>
       <img class="nav__brand-logo" src="/images-optimized/logo-cypres-rond-128.webp" alt="" width="42" height="42">
       <span class="nav__brand-txt"><span class="name">Le Clos des Cyprès</span>
       <span class="sub">Biver</span></span>
     </a>
+    <nav class="nav__links" aria-label="Navigation principale">
+      <a href="/environnement">Vivre à Biver</a>
+      <a href="/lots">Le lotissement</a>
+      <a href="/galerie">Galerie</a>
+      <a href="/blog/">Blog</a>
+    </nav>
     <div class="nav__cta">
-      <a class="btn btn-gold" href="tel:+33609204590">06 09 20 45 90</a>
+      <a class="btn btn-gold" href="/contact">Nous contacter</a>
     </div>
+    <button class="nav__burger" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mobile-menu"><span></span><span></span><span></span></button>
   </header>
+
+  <!-- MOBILE MENU -->
+  <nav id="mobile-menu" class="mobile-menu" aria-label="Menu mobile">
+    <a href="/environnement">Vivre à Biver</a>
+    <a href="/lots">Le lotissement</a>
+    <a href="/galerie">Galerie</a>
+    <a href="/blog/">Blog</a>
+    <a class="btn btn-gold mm-cta" href="/contact">Nous contacter</a>
+  </nav>
 
   <main id="contenu" tabindex="-1">
 
