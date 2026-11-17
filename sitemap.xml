@@ -7,10 +7,18 @@
     <image:image>
       <image:loc>https://clos-des-cypres.fr/images-optimized/hero-aerial-villas-golden-hour.webp</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/vue-aerienne-lots-surfaces.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : les huit lots du Clos des Cyprès et leur surface, vus du ciel</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/lots</loc>
     <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/plan-lots-vue-zenithale.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : plan des huit lots du Clos des Cyprès et leur surface, vu à la verticale</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/terrain-a-batir-gardanne</loc>
@@ -44,6 +52,26 @@
   <url>
     <loc>https://clos-des-cypres.fr/galerie</loc>
     <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/vue-aerienne-lots-surfaces.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : les huit lots du Clos des Cyprès et leur surface, vus du ciel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/vue-aerienne-lots-surfaces-angle-2.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : les huit lots du Clos des Cyprès sous un autre angle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/plan-lots-vue-zenithale.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : plan des huit lots du Clos des Cyprès et leur surface, vu à la verticale</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/vue-aerienne-lotissement.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : le Clos des Cyprès imaginé, vu du ciel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clos-des-cypres.fr/images-optimized/vue-zenithale-lotissement.webp</image:loc>
+      <image:title>Vue d'ambiance non contractuelle : le Clos des Cyprès imaginé, à la verticale</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://clos-des-cypres.fr/contact</loc>
