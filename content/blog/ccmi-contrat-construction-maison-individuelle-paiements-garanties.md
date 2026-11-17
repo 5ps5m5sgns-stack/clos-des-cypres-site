@@ -8,7 +8,7 @@ tags: CCMI, contrat de construction de maison individuelle, garantie de livraiso
 keyword: CCMI
 image: /images-optimized/coucher-soleil-piscine-cypres-1024.avif
 image_alt: Visualisation illustrative d'un jardin provençal au coucher du soleil : terrasse, piscine, cyprès et oliviers
-og_image: /images-optimized/coucher-soleil-piscine-cypres-og.jpg
+og_image: /images-optimized/coucher-soleil-piscine-cypres-og-1200x630.jpg
 image_caption: Visualisation illustrative, non contractuelle.
 related: architecte-constructeur-maitre-d-oeuvre-quel-contrat, dommages-ouvrage-garantie-decennale-maison-neuve, terrain-libre-de-constructeur-definition
 draft: false

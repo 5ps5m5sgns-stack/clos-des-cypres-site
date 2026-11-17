@@ -8,7 +8,7 @@ tags: taxe foncière, maison neuve, exonération de deux ans, déclaration fonci
 keyword: taxe foncière d'une maison neuve
 image: /images-optimized/villa-nuit-piscine-illuminee-1024.avif
 image_alt: Visualisation illustrative d'une maison provençale à étage, de nuit : piscine éclairée, terrasse, oliviers et cyprès
-og_image: /images-optimized/villa-nuit-piscine-illuminee-og.jpg
+og_image: /images-optimized/villa-nuit-piscine-illuminee-og-1200x630.jpg
 image_caption: Visualisation illustrative, non contractuelle.
 related: taxe-d-amenagement-maison-calcul, construire-sa-maison-etapes-du-terrain-aux-cles, budget-terrain-maison-pres-aix-gardanne
 draft: false
