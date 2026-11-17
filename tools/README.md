@@ -25,7 +25,7 @@ python3 -m venv ~/.venv-clos-min          # une seule fois, HORS du dépôt
   fichier est plus gros que l'ancien (≈ 17 Ko contre 13 Ko pour `main`), mais sans risque.
 - Avant d'écrire, le script vérifie que chaînes, gabarits et expressions régulières sont
   identiques à la source et que le code ne diffère que par les espaces ; après écriture, il
-  fait un test de syntaxe avec JavaScriptCore (`osascript`, macOS).
+  fait un test de syntaxe avec JavaScriptCore (`osascript`, macOS) ou, à défaut, `node --check`.
 - `animations.min.js` n'est PAS régénéré par défaut : il date de l'ancienne chaîne et
   `animations.js` n'a pas changé. Ne le relancer que si `animations.js` est modifié.
 
@@ -44,10 +44,23 @@ Conséquences :
 
 ## Contrôler les dates du sitemap
 
-`sitemap.xml` est tenu à la main (le futur générateur du blog en reprendra la main).
-`python3 tools/lastmod_check.py` compare chaque `<lastmod>` à la date réelle du fichier
-(dernier commit, ou date de modification si le fichier est modifié et pas encore commité).
-Il n'écrit rien ; code retour 1 en cas d'écart.
+`sitemap.xml` est écrit par `python3 tools/build_blog.py` : pages de la racine = date du dernier commit qui a touché
+le fichier (ou date de modification s'il n'est pas commité), articles = champ `updated` / `date` du texte.
+**Le dépôt ne doit pas être cloné en « shallow »** : toutes les dates seraient celles du dernier commit
+(`git fetch --unshallow` d'abord).
+`python3 tools/lastmod_check.py` compare chaque `<lastmod>` à cette règle (blog inclus). Il n'écrit rien ; code retour 1
+en cas d'écart, 2 si le dépôt est « shallow ».
+
+`python3 tools/sync_datemodified.py` aligne le `dateModified` des données structurées (JSON-LD) des pages de la racine
+sur la même date (`--check` pour seulement contrôler). Ordre conseillé avant de publier : modifier les pages, lancer
+`sync_datemodified.py`, `build_blog.py` (sitemap, flux), `build_llms.py`, puis commiter.
+
+## En-têtes de sécurité (CSP)
+
+`_headers` contient une `Content-Security-Policy`. Elle autorise par empreinte (sha256) les deux scripts écrits dans les
+pages (`lots.html`, `lotissement-3d.html`) : **si l'un de ces deux scripts change, son empreinte change et le navigateur le
+bloque.** `python3 tools/csp_check.py` recalcule les empreintes de toutes les pages et dit si `_headers` est à jour
+(code retour 1 sinon, avec les empreintes à coller).
 
 ## Blog : couvertures allégées (srcset), polices et CSS critique
 

@@ -31,6 +31,25 @@ def source_file(loc):
     return "index.html" if path == "" else path + ".html"
 
 
+def blog_date(loc):
+    """Blog : la date vient du texte (champ « updated », sinon « date » de content/blog/<slug>.md), comme dans
+    build_blog.py ; pour /blog/, la plus récente de tous les articles. None si le texte est introuvable."""
+    slug = re.sub(r"^https?://[^/]+/blog/?", "", loc).strip("/")
+    dates = []
+    folder = os.path.join(ROOT, "content", "blog")
+    for name in ([slug + ".md"] if slug else sorted(os.listdir(folder))):
+        path = os.path.join(folder, name)
+        if name.startswith("_") or not name.endswith(".md") or not os.path.exists(path):
+            continue
+        head = open(path, encoding="utf-8").read().split("---")[1]
+        if re.search(r"^draft:\s*true\s*$", head, re.M):
+            continue
+        d = re.search(r"^updated:\s*(\S+)", head, re.M) or re.search(r"^date:\s*(\S+)", head, re.M)
+        if d:
+            dates.append(d.group(1))
+    return max(dates) if dates else None
+
+
 def expected_date(rel):
     full = os.path.join(ROOT, rel)
     if not os.path.exists(full):
@@ -43,6 +62,11 @@ def expected_date(rel):
 
 
 def main():
+    shallow = subprocess.run(["git", "-C", ROOT, "rev-parse", "--is-shallow-repository"], capture_output=True, text=True).stdout.strip()
+    if shallow == "true":
+        print("ATTENTION : dépôt cloné en profondeur partielle (shallow) : toutes les dates de commit sont celles du dernier commit. "
+              "Lancer d'abord « git fetch --unshallow ».", file=sys.stderr)
+        return 2
     tree = ET.parse(os.path.join(ROOT, "sitemap.xml"))
     bad = 0
     for url in tree.getroot().findall("s:url", NS):
@@ -50,7 +74,10 @@ def main():
         lm = url.find("s:lastmod", NS)
         have = lm.text if lm is not None else None
         rel = source_file(loc)
-        want = expected_date(rel)
+        if "/blog/" in loc or loc.rstrip("/").endswith("/blog"):
+            rel, want = "content/blog (date / updated)", blog_date(loc)
+        else:
+            want = expected_date(rel)
         flag = "ok " if have == want else "ECART"
         bad += have != want
         print("%-5s %-58s sitemap=%s attendu=%s (%s)" % (flag, loc, have, want, rel))

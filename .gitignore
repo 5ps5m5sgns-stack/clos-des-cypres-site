@@ -26,3 +26,6 @@ _backup_pre_audit_*/
 
 # Vue 3D : dépendances de fabrication (three, esbuild), réinstallées par « npm install » dans tools/vue3d
 node_modules/
+
+# Python (outils)
+__pycache__/

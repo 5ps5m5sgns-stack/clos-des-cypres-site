@@ -11,7 +11,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 BASE = "https://clos-des-cypres.fr"
-DATE_FR = os.environ.get("LLMS_DATE_FR", "11/11/2026")
+LLMS_DATE_FR = os.environ.get("LLMS_DATE_FR")  # facultatif : « JJ/MM/AAAA » imposé ; sinon date la plus récente du sitemap
 
 RESUME = (
     "Lotissement de huit terrains à bâtir, de 500 à 1 133 m², libres de constructeur, avenue du Pilon du Roy, à Biver "
@@ -20,7 +20,7 @@ RESUME = (
     "Le plan, la disponibilité et le prix des lots sont communiqués lors d'un échange (06 09 20 45 90, ventes@ponthieu.fr) : "
     "le site ne publie pas les prix. Aménageur : PONTHIEU DH (SIREN 440 312 791), Aix-en-Provence. "
     "Les guides du blog donnent des informations générales, avec leurs sources officielles. "
-    f"Dernière mise à jour : {DATE_FR}."
+    "Dernière mise à jour : {DATE_FR}."
 )
 
 CATEGORIES = {
@@ -63,13 +63,29 @@ def category_of(slug):
 
 
 sitemap = open(os.path.join(ROOT, "sitemap.xml"), encoding="utf-8").read()
+_dates = re.findall(r"<lastmod>(\d{4})-(\d{2})-(\d{2})</lastmod>", sitemap)
+DATE_FR = LLMS_DATE_FR or ("/".join(reversed(max(_dates))) if _dates else "")
+
+
+def lots():
+    """Surfaces des lots, lues dans les cartes de lots.html (jamais saisies ici : une seule source de vérité)."""
+    s = open(os.path.join(ROOT, "lots.html"), encoding="utf-8").read()
+    rows = re.findall(r'<li class="lotcard[^"]*" id="lot-(\d+)">.*?<p class="lotcard__surface">.*?</span>([\d&;a-z]+)<i>m²</i>', s, re.S)
+    return [(n, html.unescape(v).replace("\u00a0", " ")) for n, v in rows]
+
+
 paths = [u[len(BASE):] or "/" for u in re.findall(r"<loc>([^<]+)</loc>", sitemap)]
 posts = [p for p in paths if re.fullmatch(r"/blog/[^/]+/", p)]
 by_cat = {}
 for p in posts:
     by_cat.setdefault(category_of(p.split("/")[2]), []).append(p)
 
-out = ["# Le Clos des Cyprès", "", "> " + RESUME, "", "## Le lotissement"]
+out = ["# Le Clos des Cyprès", "", "> " + RESUME.replace("{DATE_FR}", DATE_FR), ""]
+LOTS = lots()
+if LOTS:
+    out += ["## Les %d lots (surface issue du plan de composition ; disponibilité et prix : lors d'un échange)" % len(LOTS), "",
+            "| Lot | Surface |", "|---|---|"] + ["| Lot %s | %s m² |" % (n, v) for n, v in LOTS] + [""]
+out += ["## Le lotissement"]
 out += [line(p) for p in LOTISSEMENT if p in paths]
 out += ["", "## Terrain à bâtir près d'Aix-en-Provence, de Marseille et de Gardanne"]
 out += [line(p) for p in TERRAINS if p in paths]

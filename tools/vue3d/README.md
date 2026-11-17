@@ -4,7 +4,8 @@ La page `/lotissement-3d` (affichée seule ou dans le cadre « Explorer en 3D »
 
 | Fichier servi | D'où il vient |
 | --- | --- |
-| `lotissement-3d.html` | écrit à la main : mise en page, textes, réglages (`window.LOTISSEMENT`) |
+| `lotissement-3d.html` | écrit à la main : mise en page et textes |
+| `lotissement-3d-config.js` | écrit à la main : réglages (`window.LOTISSEMENT`), chargé avant la scène |
 | `lotissement-3d.min.js` | **fabriqué** à partir de `tools/vue3d/src/` (commande ci-dessous) |
 | `images-optimized/vue3d-sol-v2-*.webp` | fabriqués par `sol.py` à partir de `sol-source.jpg` |
 | `images-optimized/apercu-lotissement-3d-v2*` | fabriqués par `apercus.py` (photos de la scène) |
@@ -13,7 +14,7 @@ Rien de ce dossier n'est mis en ligne (`tools` est dans `.assetsignore`).
 
 ## Changer un texte, une surface, un statut
 
-Tout est dans le bloc `window.LOTISSEMENT` de `lotissement-3d.html` : titre, sous-titre, lien de contact,
+Tout est dans le bloc `window.LOTISSEMENT` de `lotissement-3d-config.js` (un fichier à part : la politique de sécurité du site interdit les scripts écrits dans les pages) : titre, sous-titre, lien de contact,
 surfaces, et par lot les champs facultatifs `statut`, `prix`, `note`. Aucune fabrication à relancer.
 `afficherJardins: true` ajoute à la fiche des lots 4 et 5 la surface de leur jardin attenant.
 
@@ -49,7 +50,7 @@ Repère : x vers l'est, z vers le sud (le nord est en −z), y vers le haut.
 
 Les fichiers d'`images-optimized/` sont servis avec un cache d'un an : ne jamais réécrire un fichier déjà en
 ligne sous le même nom. Pour un nouveau rendu, changer `VERSION` dans le script (`v3`…) et reporter le nouveau
-nom dans `lotissement-3d.html` (bloc `sol`, balises `preload`, fond de `#loader`) et dans `lots.html` (`<picture>`
+nom dans `lotissement-3d-config.js` (bloc `sol`) et `lotissement-3d.html` (balises `preload`, fond de `#loader`) et dans `lots.html` (`<picture>`
 de `#vue-3d`).
 
 ## Adresses utiles pour les essais

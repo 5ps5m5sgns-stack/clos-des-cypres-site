@@ -6,7 +6,7 @@
 - Deux fichiers WebP sont écrits dans images-optimized/ (grand écran et mobile).
 
 Les images d'images-optimized/ sont servies avec un cache d'un an : pour changer le rendu, changer VERSION
-(nouveau nom de fichier) et reporter ce nom dans lotissement-3d.html (bloc « sol » et balises preload).
+(nouveau nom de fichier) et reporter ce nom dans lotissement-3d-config.js (bloc « sol ») et lotissement-3d.html (balises preload).
 
 Usage :  ~/.venv-clos-qa/bin/python tools/vue3d/sol.py     (Pillow + numpy)
 """

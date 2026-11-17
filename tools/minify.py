@@ -18,6 +18,7 @@ Garanties :
 """
 import os
 import re
+import shutil
 import subprocess
 import sys
 
@@ -123,9 +124,12 @@ def skeleton(src):
 
 
 def js_syntax_ok(path):
-    """Test de syntaxe avec JavaScriptCore (macOS) ; None si indisponible."""
+    """Test de syntaxe avec JavaScriptCore (macOS) ou, à défaut, « node --check » ; None si aucun n'est disponible."""
     if not os.path.exists("/usr/bin/osascript"):
-        return None
+        node = shutil.which("node")
+        if not node:
+            return None
+        return subprocess.run([node, "--check", path], capture_output=True).returncode == 0
     jxa = ("ObjC.import('Foundation');"
            "var p=$.NSProcessInfo.processInfo.environment.objectForKey('JSFILE').js;"
            "var s=$.NSString.stringWithContentsOfFileEncodingError(p,4,null).js;"
