@@ -80,7 +80,7 @@
     banner.setAttribute("role", "region");
     banner.setAttribute("aria-label", "Gestion des cookies");
     banner.innerHTML =
-      '<p class="consent-banner__txt">Avec votre accord, nous utilisons le <strong>Pixel Meta</strong> pour mesurer l\'efficacité de nos annonces et en optimiser la diffusion. La carte Google Maps de la page L\'Environnement ne se charge qu\'à votre demande. Aucun autre traceur n\'est utilisé ; votre choix est simplement mémorisé dans votre navigateur. <a href="/confidentialite">En savoir plus</a></p>' +
+      '<p class="consent-banner__txt">Avec votre accord, nous utilisons le <strong>Pixel Meta</strong> pour mesurer l\'efficacité de nos annonces et en optimiser la diffusion. La carte OpenStreetMap de la page Vivre à Biver s\'affiche dès l\'ouverture, sans cookie publicitaire ni traceur de mesure d\'audience. Aucun autre traceur n\'est utilisé ; votre choix est simplement mémorisé dans votre navigateur. <a href="/confidentialite">En savoir plus</a></p>' +
       '<div class="consent-banner__btns">' +
       '<button type="button" class="btn btn-gold consent-accept">Accepter</button>' +
       '<button type="button" class="btn btn-outline-gold consent-deny">Refuser</button>' +
