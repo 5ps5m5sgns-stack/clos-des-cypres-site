@@ -78,15 +78,21 @@
 https://:sub1.:sub2.workers.dev/*
   X-Robots-Tag: noindex
 
-# --- Content-Security-Policy : NON activée (risque de casser Pixel Meta, Formspree, carte) ---
-# Origines réellement utilisées dans le code (relevé du 05/10/2026) :
-#   scripts : 'self' + https://connect.facebook.net (Pixel Meta, uniquement après consentement)
-#   requêtes : 'self' + https://formspree.io (formulaire) + https://www.facebook.com (balise Pixel)
-#   cadres : https://www.google.com (carte de environnement.html)
-#   inline : <style> critique dans chaque page, attributs style="", onload="" sur les <link>
-# Brouillon à tester en mode rapport (n'empêche rien, ne fait qu'écrire dans la console du
-# navigateur), à coller dans le bloc /* pour l'essayer :
-#   Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' https://connect.facebook.net; script-src-attr 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.facebook.com; font-src 'self'; connect-src 'self' https://formspree.io https://www.facebook.com https://connect.facebook.net; frame-src https://www.google.com; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'
+# --- Content-Security-Policy (testée sur les 47 pages, voir tools/csp_check.py) ---
+# Origines réellement utilisées par le code :
+#   scripts   : 'self' + https://static.cloudflareinsights.com (mesure de vitesse Cloudflare, toutes les pages)
+#               + https://connect.facebook.net (Pixel Meta, uniquement après consentement ET si un identifiant est renseigné)
+#   requêtes  : 'self' + https://formspree.io (formulaire) + https://cloudflareinsights.com (envoi des mesures)
+#               + https://www.facebook.com et https://connect.facebook.net (Pixel Meta, idem)
+#   cadres    : 'self' (vue 3D /lotissement-3d dans /lots) + https://www.openstreetmap.org (carte de /environnement)
+#   images    : 'self', data: (petits motifs SVG du CSS), blob: (textures de la vue 3D), https://www.facebook.com (balise du Pixel)
+#   en ligne  : <style data-critical> dans chaque page, attributs style="" et onload="" des <link rel="preload"> :
+#               d'où 'unsafe-inline' pour les styles et script-src-attr (aucun script en ligne : tout est dans des fichiers .js).
+# Pour AJOUTER un service tiers (script, cadre, requête) : l'ajouter ici, sinon le navigateur le bloque.
+# Pour tester une modification sans rien bloquer : remplacer le nom de l'en-tête par Content-Security-Policy-Report-Only
+# (les refus s'affichent alors seulement dans la console du navigateur).
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com https://connect.facebook.net; script-src-attr 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://www.facebook.com; font-src 'self'; connect-src 'self' https://formspree.io https://cloudflareinsights.com https://www.facebook.com https://connect.facebook.net; frame-src 'self' https://www.openstreetmap.org; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; frame-ancestors 'self'
 
 # Pictogrammes des trajets : le nom peut changer de dessin => 7 jours
 /icons-trajets.svg

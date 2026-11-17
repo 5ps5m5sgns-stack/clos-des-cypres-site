@@ -464,6 +464,7 @@
   <script src="/animations.min.js" defer></script>
   <script src="/main.min.js" defer></script>
   <script src="/consent.min.js" defer></script>
+  <script src="/lots-3d.js" defer></script>
   <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "37268593461a42cbb218412ba07699bb"}'></script>
 </head>
 <body>
@@ -547,22 +548,6 @@
           </button>
           <figcaption class="table-note">Vue d'ambiance non contractuelle&nbsp;: les maisons, piscines et plantations sont figurées à titre indicatif.</figcaption>
         </figure>
-        <script>
-        (function () {
-          var fig = document.getElementById('vue-3d'), btn = fig && fig.querySelector('.vue3d__start');
-          if (!btn) return;
-          fig.hidden = false;
-          btn.addEventListener('click', function () {
-            var f = document.createElement('iframe');
-            f.src = '/lotissement-3d';
-            f.title = "Vue 3D interactive du Clos des Cyprès : les 8 lots, la voie et la placette";
-            f.setAttribute('allowfullscreen', '');
-            btn.parentNode.insertBefore(f, btn);
-            btn.remove();
-            f.focus();
-          });
-        })();
-        </script>
         <ul class="lotgrid" data-stagger aria-label="Les 8 lots du Clos des Cyprès à Biver : numéro, surface et lien de contact">
             <li class="lotcard reveal" id="lot-1">
               <span class="lotcard__num">01</span>
