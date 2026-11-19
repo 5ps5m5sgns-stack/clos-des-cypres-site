@@ -15,7 +15,7 @@ window.LOTISSEMENT = {
     grand: "/images-optimized/vue3d-sol-v2-3311.webp",
     petit: "/images-optimized/vue3d-sol-v2-2048.webp"
   },
-  afficherJardins: false,
+  afficherJardins: true,
   lots: {
     1: { surface: 1133 },
     2: { surface: 861 },

@@ -26,7 +26,8 @@ export function createLabels(container, lots, houses) {
   for (const g of SITE.gardenLabels) {
     const el = document.createElement('span');
     el.className = 'tag tag--garden';
-    el.textContent = 'Jardin du lot\u00a0' + g.n;
+    const ga = lots.lots[g.n] && lots.lots[g.n].garden;
+    el.textContent = 'Jardin du lot\u00a0' + g.n + (ga && (window.LOTISSEMENT || {}).afficherJardins ? '\u00a0· ' + fr(ga) + '\u00a0m²' : '');
     container.append(el);
     items.push({ el, n: g.n, garden: true, pos: new THREE.Vector3(g.p[0], 1.6, g.p[1]) });
   }
