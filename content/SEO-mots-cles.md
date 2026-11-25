@@ -67,3 +67,16 @@ Limite importante : la saisie automatique prouve qu'une requête est réellement
 3. Relire chaque article de fond tous les six mois (règles d'urbanisme, taux, liens externes), et ne changer le champ `updated` que si le fond a changé.
 4. Faire relire par un notaire les articles qui touchent à la fiscalité et à l'urbanisme (frais de notaire, certificat d'urbanisme, étude de sol) avant de les promouvoir.
 5. Créer et vérifier une fiche Google Business Profile pour le Clos des Cyprès (adresse du terrain, téléphone), si l'aménageur le souhaite : elle sert aux recherches locales sur mobile.
+
+## 6. Reprise du 25 novembre 2026
+
+Audit mesuré des 47 pages (titres, descriptions, h1, canoniques, données structurées, 4 253 liens internes, images, sitemap) : aucun défaut bloquant. Ce qui a été changé, et pourquoi :
+
+- **Cannibalisation accueil / `/terrain-a-batir-gardanne`** : les deux titres commençaient par « Terrain à bâtir à Gardanne (Biver) ». L'accueil garde « terrain à bâtir Gardanne » ; la page `/terrain-a-batir-gardanne` vise désormais « terrain à vendre Gardanne » et « terrain constructible Gardanne » (titre, h1, description). À contrôler dans la Search Console après trois mois : si l'une des deux pages ne reçoit aucune impression, revoir.
+- **Page `/terrain-a-batir-gardanne`** : deux sections ajoutées, faites uniquement de faits déjà vérifiés dans les guides (avec leur date) : règles locales (PLUi du Pays d'Aix, argiles, taxe d'aménagement, frais de notaire, délai du permis) et situation de Biver (quartier de Gardanne, sept communes limitrophes, trajets déjà mesurés).
+- **Communes voisines (Mimet, Simiane-Collongue, Bouc-Bel-Air, Meyreuil, Fuveau, Gréasque)** : toujours aucune page par commune (ce seraient des pages satellites, contraires aux règles de Google). Elles sont citées une fois, dans la page Gardanne, pour dire où le lotissement se trouve et où il ne se trouve pas. Aucun temps de trajet depuis ces communes n'est publié : ils n'ont pas été mesurés.
+- **Page Aix** : titre « Terrain à bâtir près d'Aix-en-Provence, livré viabilisé » (requête « terrain viabilisé près d'Aix-en-Provence »).
+- **Accueil** : « (Gardanne) » ajouté au titre principal visible.
+- **Données structurées** : `/lots` est aussi déclarée `RealEstateListing` ; `alternateName` du site. Pas de `Product` ni d'`Offer` : aucun prix n'est public.
+
+À faire quand la Search Console sera connectée : juger `/terrain-a-batir-provence` (la plus générale des quatre pages locales) sur ses impressions réelles ; sans impression, la fusionner dans `/terrain-a-batir-gardanne` par une redirection 301.
